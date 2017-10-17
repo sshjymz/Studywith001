@@ -16,11 +16,11 @@
 
 * [DAY2-1 基本逻辑](day2-du-ji-hui-tan-201c-jia-zhi-201d-ff0c-dan-jia-zhi-tao-bu-guo/day2-1-ji-ben-luo-ji.md)
 * [DAY2-2 承认与尊重是非常基础的，无法逃避的需求](day2-du-ji-hui-tan-201c-jia-zhi-201d-ff0c-dan-jia-zhi-tao-bu-guo/day2-2-cheng-ren-yu-zun-zhong-shi-fei-chang-ji-chu-de-ff0c-wu-fa-tao-bi-de-xu-qiu.md)
-* DAY2-3 现代社会的理性化尊重是个零和博弈游戏
-* DAY2-4 零和博弈游戏 + 经济逻辑的玩法
-* DAY2-5 尊重与承认的质量
-* DAY2-6 由仁义行，非行仁义
-* DAY2-7 幸福会不会指较少的羞愧和内疚
+* [DAY2-3 现代社会的理性化尊重是个零和博弈游戏](day2-du-ji-hui-tan-201c-jia-zhi-201d-ff0c-dan-jia-zhi-tao-bu-guo/day2-3-xian-dai-she-hui-de-li-xing-hua-zun-zhong-shi-ge-ling-he-bo-yi-you-xi.md)
+* [DAY2-4 零和博弈游戏 + 经济逻辑的玩法](day2-du-ji-hui-tan-201c-jia-zhi-201d-ff0c-dan-jia-zhi-tao-bu-guo/day2-4-ling-he-bo-yi-you-xi-+-jing-ji-luo-ji-de-wan-fa.md)
+* [DAY2-5 尊重与承认的质量](day2-du-ji-hui-tan-201c-jia-zhi-201d-ff0c-dan-jia-zhi-tao-bu-guo/day2-5-zun-zhong-yu-cheng-ren-de-zhi-liang.md)
+* [DAY2-6 由仁义行，非行仁义](day2-du-ji-hui-tan-201c-jia-zhi-201d-ff0c-dan-jia-zhi-tao-bu-guo/day2-6-you-ren-yi-xing-ff0c-fei-xing-ren-yi.md)
+* [DAY2-7 幸福会不会指较少的羞愧和内疚](day2-du-ji-hui-tan-201c-jia-zhi-201d-ff0c-dan-jia-zhi-tao-bu-guo/day2-7-xing-fu-hui-bu-hui-zhi-jiao-shao-de-xiu-kui-he-nei-jiu.md)
 
 ## DAY3 来当一天的未来学家
 
