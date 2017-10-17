@@ -24,16 +24,16 @@
 
 ## DAY3 来当一天的未来学家
 
-* DAY3-1 基本逻辑
-* DAY3-2 未来的“工作”
-* DAY3-3 那么我们会流落街头吗
-* DAY3-4 那么我们干什么呢？
-* DAY3-5 那是不是我们开始做创造性工作就好了？
-* DAY3-6 识别虚假的未来趋势
+* [DAY3-1 基本逻辑](day3-lai-dang-yi-tian-de-wei-lai-xue-jia/day3-1-ji-ben-luo-ji.md)
+* [DAY3-2 未来的“工作”](day3-lai-dang-yi-tian-de-wei-lai-xue-jia/day3-2-wei-lai-de-201c-gong-zuo-201d.md)
+* [DAY3-3 那么我们会流落街头吗](day3-lai-dang-yi-tian-de-wei-lai-xue-jia/day3-3-na-yao-wo-men-hui-liu-luo-jie-tou-ma.md)
+* [DAY3-4 那么我们干什么呢？](day3-lai-dang-yi-tian-de-wei-lai-xue-jia/day3-4-na-yao-wo-men-gan-shi-yao-ni-ff1f.md)
+* [DAY3-5 那是不是我们开始做创造性工作就好了？](day3-lai-dang-yi-tian-de-wei-lai-xue-jia/day3-5-na-shi-bu-shi-wo-men-kai-shi-zuo-chuang-zao-xing-gong-zuo-jiu-hao-le-ff1f.md)
+* [DAY3-6 识别虚假的未来趋势](day3-lai-dang-yi-tian-de-wei-lai-xue-jia/day3-6-shi-bie-xu-jia-de-wei-lai-qu-shi.md)
 
 ## DAY4 不空谈的未来计划
 
-* DAY4-1 基本逻辑
+* [DAY4-1 基本逻辑](day4-bu-kong-tan-de-wei-lai-ji-hua/day4-1-ji-ben-luo-ji.md)
 * DAY4-2 如果你在2000年，你可以如何计划未来
 * DAY4-3 从互联网巨头们早期生活的启示
 * DAY4-4 什么在支撑一个生活方式
