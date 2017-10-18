@@ -5,7 +5,7 @@
 * [Day0操作说明](README.md)
 * [Day0本次主题说明](day0ben-ci-zhu-ti-shuo-ming.md)
 
-## DAY1 如此广泛的“规划未来”，本身并不简单
+## DAY1 从找到一种真的“计划”开始
 
 * [DAY1-1 基本逻辑](methods.md)
 * [DAY1-2 初识现代性](day1-2-chu-shi-xian-dai-xing.md)
