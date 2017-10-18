@@ -4,6 +4,7 @@
 
 * [Day0操作说明](README.md)
 * [Day0本次主题说明](day0ben-ci-zhu-ti-shuo-ming.md)
+* [Day0 Studywith介绍](day0-studywithjie-shao.md)
 
 ## DAY1 从找到一种真的“计划”开始
 
