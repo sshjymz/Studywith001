@@ -2,7 +2,8 @@
     "plugins": [ 
     "theme-api",
     "multimedia",
-    "ga"
+    "ga",
+    "baidu"
      ],
     "pluginsConfig": {
         "theme-api": {
@@ -20,6 +21,9 @@
         },
         "ga": {
             "token": "UA-92168158-2"
-        }
+        },
+        "baidu": {
+            "token": "8d3c54f6cb8eaacda150cdcf6224cd7c"
+        },
     }
 }
