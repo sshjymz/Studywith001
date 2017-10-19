@@ -3,7 +3,8 @@
     "theme-api",
     "multimedia",
     "ga",
-    "baidu"
+    "baidu",
+    "changyan2"
      ],
     "pluginsConfig": {
         "theme-api": {
@@ -24,6 +25,10 @@
         },
         "baidu": {
             "token": "8d3c54f6cb8eaacda150cdcf6224cd7c"
+        },
+        "changyan": {
+            "appid": "cyteOk5Ab",
+            "conf": "prod_f58b10a96f78d90e9937a9370004e3ed"
         }
     }
 }
