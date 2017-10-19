@@ -8,9 +8,5 @@
 
 ![](/assets/studywith-gitbook.jpg)
 
-
-
-
-
 ![](/assets/2.jpg)
 
