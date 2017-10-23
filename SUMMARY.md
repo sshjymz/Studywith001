@@ -38,7 +38,8 @@
 * [DAY4-1 基本逻辑](day4-bu-kong-tan-de-wei-lai-ji-hua/day4-1-ji-ben-luo-ji.md)
 * [DAY4-2 如果你在2000年，你可以如何计划未来](day4-bu-kong-tan-de-wei-lai-ji-hua/day4-2-ru-guo-ni-zai-2000-nian-ff0c-ni-ke-yi-ru-he-ji-hua-wei-lai.md)
 * [DAY4-3 从互联网巨头们早期生活的启示](day4-bu-kong-tan-de-wei-lai-ji-hua/day4-3-cong-hu-lian-wang-ju-tou-men-zao-qi-sheng-huo-de-qi-shi.md)
-* [DAY4-4 什么在支撑一个生活方式](day4-bu-kong-tan-de-wei-lai-ji-hua/day4-4-shi-yao-zai-zhi-cheng-yi-ge-sheng-huo-fang-shi.md)
+* [DAY4-4 一个计划就是一种生活](day4-bu-kong-tan-de-wei-lai-ji-hua/day4-4-yi-ge-ji-hua-jiu-shi-yi-zhong-sheng-huo.md)
+* [DAY4-5 什么在支撑一个生活方式](day4-bu-kong-tan-de-wei-lai-ji-hua/day4-4-shi-yao-zai-zhi-cheng-yi-ge-sheng-huo-fang-shi.md)
 
 ## 后续（你看咋放）
 
