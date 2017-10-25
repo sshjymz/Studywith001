@@ -12,7 +12,9 @@
 >
 > 卡尔 • 马克思、马克思 • 韦伯、涂尔干，可能是当代最重要的三个社会学家之一。
 >
-> [维基中文内容链接](https://zh.wikipedia.org/wiki/%E7%88%B1%E7%B1%B3%E5%B0%94%C2%B7%E6%B6%82%E5%B0%94%E5%B9%B2)  [维基英文内容链接](https://en.wikipedia.org/wiki/%C3%89mile_Durkheim)  [社会学三大家](https://philosophy.hk01.com/channel/%E7%84%A1%E7%9D%A1%E6%84%8F%E5%93%B2%E5%AD%B8/48961/%E7%A4%BE%E6%9C%83%E5%AD%B8%EF%BC%9A%E6%B6%82%E7%88%BE%E5%B9%B9%E3%80%81%E9%9F%8B%E4%BC%AF%E3%80%81%E9%A6%AC%E5%85%8B%E6%80%9D)
+> [维基中文内容链接](https://zh.wikipedia.org/wiki/爱米尔·涂尔干)  [维基英文内容链接](https://en.wikipedia.org/wiki/Émile_Durkheim)  [社会学三大家](https://philosophy.hk01.com/channel/無睡意哲學/48961/社會學：涂爾幹、韋伯、馬克思)
+
+
 
 > ##### Studywith知识链接
 >
@@ -24,7 +26,7 @@
 >
 > 这本书成书很早，但这本书反复提醒着我们，我们是如此的需要这个整体的社会。不是在流俗的意义上，“人需要社会”，这种空话谁都会说，但是具体在哪个意义上人需要社会？如果你仙子啊还不能完全理解，你需要来读这本书。
 >
-> [内容链接](https://zh.wikipedia.org/wiki/%E8%87%AA%E6%9D%80%E8%AE%BA)
+> [内容链接](https://zh.wikipedia.org/wiki/自杀论)
 
 当然网上总有人会立即辩称说这种话的人最好都从大城市搬出去到穷困的地方生活。这当然是狡辩了，那么即便我在穷困的地方生不如死，最终自杀，其实也不说明穷困有什么问题，而是我这颗城市浇灌的“欲望心灵”，有多么的脆弱。从小出生在穷困地方的人似乎更能安贫乐道。
 
