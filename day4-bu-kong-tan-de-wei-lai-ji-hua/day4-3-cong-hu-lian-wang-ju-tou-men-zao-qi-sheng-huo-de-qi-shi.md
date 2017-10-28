@@ -31,3 +31,7 @@ CFIDO并非一个功利性的盈利组织，纯粹是互联网时代前的尝鲜
 
 是一种生活方式导向你接入未来，而不是你的某个抽象计划。
 
+{% enableComment %}
+
+{% endenableComment %}
+

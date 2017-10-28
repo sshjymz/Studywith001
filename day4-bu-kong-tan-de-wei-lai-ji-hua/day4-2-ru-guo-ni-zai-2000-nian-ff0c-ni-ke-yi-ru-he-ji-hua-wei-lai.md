@@ -21,3 +21,7 @@
 
 因为人工智能看起来红火，所以你明天应该开始学习编程和算法以便在未来谋求一个与人工智能相关的职业？Think again.
 
+{% enableComment %}
+
+{% endenableComment %}
+
