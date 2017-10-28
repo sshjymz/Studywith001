@@ -59,6 +59,5 @@
 这至多说明承认是必须的，享乐和金钱也是必须的，那么为何承认具有更优先的地位？
 
 {% enableComment %}
-
 {% endenableComment %}
 
