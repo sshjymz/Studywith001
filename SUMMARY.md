@@ -41,7 +41,3 @@
 * [DAY4-4 一个计划就是一种生活](day4-bu-kong-tan-de-wei-lai-ji-hua/day4-4-yi-ge-ji-hua-jiu-shi-yi-zhong-sheng-huo.md)
 * [DAY4-5 什么在支撑一个生活方式](day4-bu-kong-tan-de-wei-lai-ji-hua/day4-4-shi-yao-zai-zhi-cheng-yi-ge-sheng-huo-fang-shi.md)
 
-## 后续（你看咋放）
-
-* [其他一些内容](hou-xu-ff08-ni-kan-zha-fang-ff09/qi-ta-yi-xie-nei-rong.md)
-
