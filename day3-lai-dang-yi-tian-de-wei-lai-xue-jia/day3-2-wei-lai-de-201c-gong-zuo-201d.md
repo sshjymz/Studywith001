@@ -43,7 +43,7 @@
 * [第一部](https://arstechnica.com/gaming/2016/06/an-ai-wrote-this-movie-and-its-strangely-moving/) [第二部](https://thenextweb.com/artificial-intelligence/2017/04/26/ai-movie-hasselhoff-artificial-intelligence-2/) 纯人工智能编剧的剧本制成的小电影
 * Google AI Doodle [链接](https://www.theverge.com/2017/4/11/15263434/google-ai-autodraw-doodle-bot-drawing-image-recognition)
 
-所以什么“工作”不是人工智能可以替代的呢？当然人工智能不是全能的，也许人工智能永远不能拥有人的意识，但这有什么关系？边写代码，游戏，生产产品，运输，统计帐目，制作电视剧和电影，设计海报，撰写小说，这些已经足于提到99%的人的工作了吧。
+所以什么“工作”不是人工智能可以替代的呢？当然人工智能不是全能的，也许人工智能永远不能拥有人的意识，但这有什么关系？边写代码，游戏，生产产品，运输，统计帐目，制作电视剧和电影，设计海报，撰写小说，这些已经足以替代99%的人的工作了吧。
 
 那么这一天什么时候会到来呢？上面举的所有例子都发生在过去，而AI的发展正一日千里。
 
