@@ -71,3 +71,7 @@
 
 ![](/assets/28.jpg)你觉得“现代社会”真的有他独特的问题吗？还是这些其实都是好古派的说法，其实我们在人类最好的时代？
 
+{% enableComment %}
+
+{% endenableComment %}
+
