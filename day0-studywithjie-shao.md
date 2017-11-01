@@ -1,5 +1,7 @@
 # Studywith介绍
 
+![](/assets/Studywith_Slogan.png)
+
 ### Study With Who?
 
 Studywith™这个产品源于创始人沈书涵对于自己教育的选择，在高中期间，由于从事自己的事业，她便开始与高中的教育若即若离，虽然能够完成教育内容。但并未参与高考。
@@ -9,8 +11,8 @@ Studywith™这个产品源于创始人沈书涵对于自己教育的选择，�
 这就是Studywith™这个产品的初衷了，那么是Study With Who呢？是Study With沈书涵，也是Study With each other.
 
 ### 沈书涵是谁？
-- 
 
+* 
 ---
 
 ### Study Why？
@@ -74,5 +76,7 @@ Studywith™这个产品源于创始人沈书涵对于自己教育的选择，�
 * 文化文明及其载体
 * 美学与艺术世界
 
+
+![](/assets/Studywith介绍图.png)
 
 
