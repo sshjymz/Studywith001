@@ -1,11 +1,11 @@
 # Summary
 
-## Day0 学前
+## Day0 学前导语
 
 * [Day0 Studywith介绍](day0-studywithjie-shao.md)
 * [Day0 Studywith的Feature](day0-studywithde-feature.md)
 * [Day0 本次学习主题说明](day0ben-ci-zhu-ti-shuo-ming.md)
-* [Day0 ](README.md)
+* [Day0 学习系统说明](README.md)
 
 ## DAY1 从找到一种真的“计划”开始
 
