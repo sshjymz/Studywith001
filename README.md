@@ -13,12 +13,6 @@ Insert markdown content here (you should start with h3 if you use heading).
 
 <button class="section" target="section1" show="Show next section" hide="Hide next section"></button>
 
-<!--sec data-id="section1" ces-->
-
-展示内容
-
-<!--endsec-->
-
 
 
 
