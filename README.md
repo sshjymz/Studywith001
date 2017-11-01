@@ -10,7 +10,7 @@ Insert markdown content here (you should start with h3 if you use heading).
 
 <!--endsec-->
 
-<button class="section" target="section1" show="Show next section" hide="Hide next section"></button>
+
 
 左侧，右侧，
 
