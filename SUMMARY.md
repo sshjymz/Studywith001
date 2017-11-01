@@ -3,9 +3,9 @@
 ## Day0说点啥？
 
 * [Day0操作说明](README.md)
-* [Day0本次主题说明](day0ben-ci-zhu-ti-shuo-ming.md)
-* [Day0 Studywith介绍](day0-studywithjie-shao.md)
 * [Day0 Studywith的Feature](day0-studywithde-feature.md)
+* [Day0 Studywith介绍](day0-studywithjie-shao.md)
+* [Day0本次主题说明](day0ben-ci-zhu-ti-shuo-ming.md)
 
 ## DAY1 从找到一种真的“计划”开始
 
