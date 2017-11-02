@@ -22,7 +22,7 @@
 
 <!--endsec-->
 
-<!--sec data-title="链接主题" aria-expanded="false" data-id="section9" data-show=false ces-->
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section9" data-show=false ces-->
 
 [纽约时报内容链接](http://webcache.googleusercontent.com/search?q=cache:AT-QhyY2lPYJ:https://cn.nytstyle.com/books/20140219/t19anxiety/&num=1&lr=lang_en|lang_zh-CN|lang_zh-TW&hl=en&gl=us&tbs=lr:lang_1en|lang_1zh-CN|lang_1zh-TW&strip=1&vwsrc=0) 
 [广泛性焦虑症链接](https://zh.wikipedia.org/wiki/广泛性焦虑症)
@@ -45,7 +45,7 @@
 
 <!--endsec-->
 
-<!--sec data-title="链接主题" aria-expanded="false" data-id="section11" data-show=false ces-->
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section11" data-show=false ces-->
 
 [第一个荒唐的内容链接](https://www.zhihu.com/question/20153152)  [第二个荒唐的内容链接](https://book.douban.com/review/6693279/)
 
@@ -83,7 +83,7 @@
 
 <!--endsec-->
 
-<!--sec data-title="链接主题" aria-expanded="false" data-id="section13" data-show=false ces-->
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section13" data-show=false ces-->
 
 [第一个内容链接](https://baike.baidu.com/item/抽象社会)  [李猛的抽象社会内容链接](https://www.douban.com/group/topic/2408979/)
 
@@ -117,7 +117,7 @@
 
 <!--endsec-->
 
-<!--sec data-title="链接主题" aria-expanded="false" data-id="section15" data-show=false ces-->
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section15" data-show=false ces-->
 
 [叙事身份内容链接](https://philosophy.hk01.com/channel/Events/74636/利科︰被敘述的自身，身份的敘事認同 %2802/27%29)  [共同体身份内容链接](http://www.aisixiang.com/data/84700.html)
 
@@ -139,7 +139,7 @@
 
 <!--endsec-->
 
-<!--sec data-title="链接主题" aria-expanded="false" data-id="section17" data-show=false ces-->
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section17" data-show=false ces-->
 
 [内容链接](http://www.bjqx.org.cn/qxweb/n64366c764.aspx)
 
@@ -168,7 +168,7 @@
 
 <!--endsec-->
 
-<!--sec data-title="链接主题" aria-expanded="false" data-id="section19" data-show=false ces-->
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section19" data-show=false ces-->
 
 [内容链接](http://wiki.mbalib.com/wiki/路径依赖理论)
 

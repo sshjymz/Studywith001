@@ -25,7 +25,7 @@
 
 <!--endsec-->
 
-<!--sec data-title="链接主题" aria-expanded="false" data-id="section21" data-show=false ces-->
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section21" data-show=false ces-->
 
 > [知乎问题内容链接](https://www.zhihu.com/question/38794184)  [福柯《自我技术》内容链接](http://www.aisixiang.com/data/106356.html)  [TED演讲内容链接](https://www.ted.com/talks/noreena_hertz_how_to_use_experts_and_when_not_to/transcript)
 
@@ -47,7 +47,7 @@
 
 <!--endsec-->
 
-<!--sec data-title="链接主题" aria-expanded="false" data-id="section23" data-show=false ces-->
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section23" data-show=false ces-->
 
 > [内容链接](http://www.360doc.com/content/12/0218/23/892692_187719419.shtml)
 
@@ -71,7 +71,7 @@
 
 <!--endsec-->
 
-<!--sec data-title="链接主题" aria-expanded="false" data-id="section25" data-show=false ces-->
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section25" data-show=false ces-->
 
 > [阿伦特内容链接](https://www.douban.com/group/topic/55847207/)  [奇怪的wikiHow网站](https://zh.wikihow.com/首页)
 

@@ -19,7 +19,7 @@
 
 <!--endsec-->
 
-<!--sec data-title="安东尼·吉登斯及其社会学理论简介" aria-expanded="false" data-id="section1" data-show=false ces-->
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section1" data-show=false ces-->
 
 内容节选：
 
@@ -54,7 +54,7 @@
 
 <!--endsec-->
 
-<!--sec data-title="链接主题" aria-expanded="false" data-id="section3" data-show=false ces-->
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section3" data-show=false ces-->
 
 内容节选：
 
@@ -86,7 +86,7 @@
 
 <!--endsec-->
 
-<!--sec data-title="链接主题" aria-expanded="false" data-id="section5" data-show=false ces-->
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section5" data-show=false ces-->
 
 内容节选：
 
@@ -120,7 +120,7 @@
 
 <!--endsec-->
 
-<!--sec data-title="链接主题" aria-expanded="false" data-id="section7" data-show=false ces-->
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section7" data-show=false ces-->
 
 内容节选：
 
