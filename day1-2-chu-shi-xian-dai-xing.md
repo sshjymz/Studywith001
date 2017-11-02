@@ -21,7 +21,7 @@
 
 <!--endsec-->
 
-<!--sec data-title="安东尼·吉登斯及其社会学理论简介" data-id="section1" data-show=false ces-->
+<!--sec data-title="安东尼·吉登斯及其社会学理论简介" aria-expanded="false" data-id="section1" data-show=false ces-->
 
 链接内容...
 
