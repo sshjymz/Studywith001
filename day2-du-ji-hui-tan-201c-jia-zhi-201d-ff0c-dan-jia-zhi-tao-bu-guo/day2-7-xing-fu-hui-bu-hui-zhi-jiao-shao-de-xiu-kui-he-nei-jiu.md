@@ -5,38 +5,38 @@
 <!--sec data-title="Studywith知识链接" data-id="section48" data-show=true ces-->
 
 不可不知的社会学家
->
-> 今天接下来要介绍的著作《自杀论》就是涂尔干的作品，同时不得不知的《社会分工论》也是他的作品。对于涂尔干的基本思想，这个页面可以有一个概览
->
-> **为何要了解：**
->
-> 卡尔 • 马克思、马克思 • 韦伯、涂尔干，可能是当代最重要的三个社会学家之一。
 
-<button class="section" target="section7" show="展开具体内容" hide="收起具体内容" ></button>
+今天接下来要介绍的著作《自杀论》就是涂尔干的作品，同时不得不知的《社会分工论》也是他的作品。对于涂尔干的基本思想，这个页面可以有一个概览
 
-<!--endsec-->
+**为何要了解：**
 
-<!--sec data-title="链接主题" aria-expanded="false" data-id="section7" data-show=false ces-->
+卡尔•马克思、马克思•韦伯、涂尔干，可能是当代最重要的三个社会学家之一。
 
-> [维基中文内容链接](https://zh.wikipedia.org/wiki/爱米尔·涂尔干)  [维基英文内容链接](https://en.wikipedia.org/wiki/Émile_Durkheim)  [社会学三大家](https://philosophy.hk01.com/channel/無睡意哲學/48961/社會學：涂爾幹、韋伯、馬克思)
+<button class="section" target="section49" show="展开具体内容" hide="收起具体内容" ></button>
 
 <!--endsec-->
 
-<!--sec data-title="Studywith知识链接" data-id="section48" data-show=true ces-->
+<!--sec data-title="链接主题" aria-expanded="false" data-id="section49" data-show=false ces-->
+
+[维基中文内容链接](https://zh.wikipedia.org/wiki/爱米尔·涂尔干)  [维基英文内容链接](https://en.wikipedia.org/wiki/Émile_Durkheim)  [社会学三大家](https://philosophy.hk01.com/channel/無睡意哲學/48961/社會學：涂爾幹、韋伯、馬克思)
+
+<!--endsec-->
+
+<!--sec data-title="Studywith知识链接" data-id="section50" data-show=true ces-->
 
 人幸福的实证分析
->
-> 涂尔干将人的自杀将人与社会连接的强弱关联起来，越是与人的连接低，自杀的几率越大。
->
-> **为何要了解：**
->
-> 这本书成书很早，但这本书反复提醒着我们，我们是如此的需要这个整体的社会。不是在流俗的意义上，“人需要社会”，这种空话谁都会说，但是具体在哪个意义上人需要社会？如果你现在还不能完全理解，你需要来读这本书。
 
-<button class="section" target="section7" show="展开具体内容" hide="收起具体内容" ></button>
+涂尔干将人的自杀将人与社会连接的强弱关联起来，越是与人的连接低，自杀的几率越大。
+
+**为何要了解：**
+
+这本书成书很早，但这本书反复提醒着我们，我们是如此的需要这个整体的社会。不是在流俗的意义上，“人需要社会”，这种空话谁都会说，但是具体在哪个意义上人需要社会？如果你现在还不能完全理解，你需要来读这本书。
+
+<button class="section" target="section51" show="展开具体内容" hide="收起具体内容" ></button>
 
 <!--endsec-->
 
-<!--sec data-title="链接主题" aria-expanded="false" data-id="section7" data-show=false ces-->
+<!--sec data-title="链接主题" aria-expanded="false" data-id="section51" data-show=false ces-->
 
 > [内容链接](https://zh.wikipedia.org/wiki/自杀论)
 
@@ -44,23 +44,23 @@
 
 当然网上总有人会立即辩称说这种话的人最好都从大城市搬出去到穷困的地方生活。这当然是狡辩了，那么即便我在穷困的地方生不如死，最终自杀，其实也不说明穷困有什么问题，而是我这颗城市浇灌的“欲望心灵”，有多么的脆弱。从小出生在穷困地方的人似乎更能安贫乐道。
 
-<!--sec data-title="Studywith知识链接" data-id="section48" data-show=true ces-->
+<!--sec data-title="Studywith知识链接" data-id="section52" data-show=true ces-->
 
 可能是许知远十三邀中最好的一部
->
-> 当然这与许知远的关系不大，听听陈嘉映老师的三个完整版部分，将会受益匪浅
->
-> **为何要了解：**
->
-> 这可能是你这5年最充满启发的3个小时。
 
-<button class="section" target="section7" show="展开具体内容" hide="收起具体内容" ></button>
+当然这与许知远的关系不大，听听陈嘉映老师的三个完整版部分，将会受益匪浅
+
+**为何要了解：**
+
+这可能是你这5年最充满启发的3个小时。
+
+<button class="section" target="section53" show="展开具体内容" hide="收起具体内容" ></button>
 
 <!--endsec-->
 
-<!--sec data-title="链接主题" aria-expanded="false" data-id="section7" data-show=false ces-->
+<!--sec data-title="链接主题" aria-expanded="false" data-id="section53" data-show=false ces-->
 
-> [内容链接](https://v.qq.com/x/cover/4oocb872jxju3c6/f0375ahngm2.html)
+[内容链接](https://v.qq.com/x/cover/4oocb872jxju3c6/f0375ahngm2.html)
 
 <!--endsec-->
 
