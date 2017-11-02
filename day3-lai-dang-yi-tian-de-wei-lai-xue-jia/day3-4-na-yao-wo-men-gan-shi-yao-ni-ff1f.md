@@ -6,9 +6,13 @@
 
 <!--sec data-title="Studywith知识链接" data-id="section70" data-show=true ces-->
 
-（_**TAM**_：罗斯福这段话的背景）
+罗斯福是杞人忧天还是先知先觉
+
+罗斯福新政的一个核心以及当时的现象就是超过20%的失业率，但这个比率在未来是司空见惯，我们会回到那个时候的恐慌吗？类似罗斯福的政策能够再一次挽救我们吗？大萧条其实是个典型事件，值得一看再看。
 
 **为什么需要了解**
+
+罗斯福时代被称为“第一机器时代”的萧条和失业，现在我们迎来被评为“第二机器时代”的萧条和失业。再回头了解罗斯福与大萧条依然很有价值。当然不仅仅是我们提供的这一点，这仅仅是一个引子。
 
 <button class="section" target="section71" show="展开具体内容" hide="收起具体内容" ></button>
 
@@ -16,7 +20,7 @@
 
 <!--sec data-title="链接内容" aria-expanded="false" data-id="section71" data-show=false ces-->
 
-链接
+[维基百科中文链接](https://zh.wikipedia.org/wiki/%E7%BD%97%E6%96%AF%E7%A6%8F%E6%96%B0%E6%94%BF)
 
 <!--endsec-->
 

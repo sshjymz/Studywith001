@@ -2,9 +2,13 @@
 
 <!--sec data-title="Studywith知识链接" data-id="section72" data-show=true ces-->
 
-（_**TAM**_：休闲生活的数据）
+我们有多痴迷于休闲生活
+
+我们找了很多数据来证明你对生活的偏好——游戏、美食、旅游等，在你个人的生活中，可能你并没有统计每日的时间花费，如果统计，可能数字会比这个更令人惊讶。
 
 **为什么需要了解**
+
+从整体社会而言暂且不谈，如何摆脱对休闲生活的“瘾”确实是对每个人的重要话题。
 
 <button class="section" target="section73" show="展开具体内容" hide="收起具体内容" ></button>
 
@@ -12,7 +16,8 @@
 
 <!--sec data-title="链接内容" aria-expanded="false" data-id="section73" data-show=false ces-->
 
-链接
+[内容行业分析文章链接](https://36kr.com/p/5062355.html)
+[消费行业文章链接](http://scyxs.mofcom.gov.cn/article/c/201706/20170602587663.shtml)
 
 <!--endsec-->
 
