@@ -21,11 +21,11 @@
 >
 > 我们认为现代是“个人主义”的时代，个体应该最大，福柯却说人的脸消失在沙滩上，他为什么会这样说？我们要理解个体化危机的实质。就算你不了解，这个事情也不会凭空消失。
 
-<button class="section" target="section7" show="展开具体内容" hide="收起具体内容" ></button>
+<button class="section" target="section21" show="展开具体内容" hide="收起具体内容" ></button>
 
 <!--endsec-->
 
-<!--sec data-title="链接主题" aria-expanded="false" data-id="section7" data-show=false ces-->
+<!--sec data-title="链接主题" aria-expanded="false" data-id="section21" data-show=false ces-->
 
 > [知乎问题内容链接](https://www.zhihu.com/question/38794184)  [福柯《自我技术》内容链接](http://www.aisixiang.com/data/106356.html)  [TED演讲内容链接](https://www.ted.com/talks/noreena_hertz_how_to_use_experts_and_when_not_to/transcript)
 
@@ -33,7 +33,7 @@
 
 * 2 从“好生活”而不是“好工作”的角度出发思考这个问题（是不是又不知道怎么思考了，多讽刺！工作是为了更好的生活，我们知道如何用薪资和付出衡量好工作，却不知道什么是好生活）
 
-<!--sec data-title="Studywith知识链接" data-id="section20" data-show=true ces-->
+<!--sec data-title="Studywith知识链接" data-id="section22" data-show=true ces-->
 
 信息时代我们遭遇的陷阱
 >
@@ -43,11 +43,11 @@
 >
 > 和上面的理由相同，越是多的理解这些机制，越不会越陷越深。其实我们也想问，你平时会感觉自己的信息生活具有某种不健康的特征吗？
 
-<button class="section" target="section7" show="展开具体内容" hide="收起具体内容" ></button>
+<button class="section" target="section23" show="展开具体内容" hide="收起具体内容" ></button>
 
 <!--endsec-->
 
-<!--sec data-title="链接主题" aria-expanded="false" data-id="section7" data-show=false ces-->
+<!--sec data-title="链接主题" aria-expanded="false" data-id="section23" data-show=false ces-->
 
 > [内容链接](http://www.360doc.com/content/12/0218/23/892692_187719419.shtml)
 
@@ -57,7 +57,7 @@
 
 * 3 从know-why而不是know-how的角度出发思考这个问题，就是考虑“为什么做”而不是“如何做”（是不是又不知道怎么思考了，多讽刺！技巧和技术为了目的，能够分辨和思考技术，却无法思考多什么目的了）
 
-<!--sec data-title="Studywith知识链接" data-id="section20" data-show=true ces-->
+<!--sec data-title="Studywith知识链接" data-id="section24" data-show=true ces-->
 
 如果只问“该怎么做”只问“干货”会出很大的问题
 >
@@ -67,11 +67,11 @@
 >
 > 汉娜阿伦特的这部作品在豆瓣上895人评价9.1的高分。在Goodreads上4431人评价4.19的高分。我其实也不愿意用这种信息来吸引你了解。但这本书确实非常有时代性，非常照应到我们的生活。
 
-<button class="section" target="section7" show="展开具体内容" hide="收起具体内容" ></button>
+<button class="section" target="section25" show="展开具体内容" hide="收起具体内容" ></button>
 
 <!--endsec-->
 
-<!--sec data-title="链接主题" aria-expanded="false" data-id="section7" data-show=false ces-->
+<!--sec data-title="链接主题" aria-expanded="false" data-id="section25" data-show=false ces-->
 
 > [阿伦特内容链接](https://www.douban.com/group/topic/55847207/)  [奇怪的wikiHow网站](https://zh.wikihow.com/首页)
 
