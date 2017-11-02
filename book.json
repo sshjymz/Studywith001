@@ -22,7 +22,7 @@
             ]
         },
        "sectionx": {
-	      "tag": "b"
+	      "tag": "h4"
 	    }
         "ga": {
             "token": "UA-92168158-2"
