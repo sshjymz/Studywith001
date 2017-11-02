@@ -2,7 +2,9 @@
 
 <!--sec data-title="Studywith知识链接" data-id="section82" data-show=true ces-->
 
-（_**TAM**_：惠多网）
+互联网的真黄埔军校
+
+中国惠多网 盛行于 1993 年至 1998 年间，高峰时期全国有上百个站点，使用者达上万人。有名的 BBS 有北京的轻松快车、长城、西点军校、天堂、舒克，广州的新月、深圳的 DataExpress、珠海的西点。CFido 的网友算是中国最早的网民，后来多个 CFido 网友成为中国互联网名人，比如腾讯的马化腾当时就是深圳的 DataExpress 的站长，而金山软件公司的求伯君是珠海西点的站长。发表 “金州不相信眼泪！” 而成名，后来担任 8848 网站董事长的网友老榕（王峻涛）是福州站的站长。
 
 **为什么需要了解**
 
@@ -12,7 +14,7 @@
 
 <!--sec data-title="链接内容" aria-expanded="false" data-id="section83" data-show=false ces-->
 
-链接
+[百度百科链接](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E6%83%A0%E5%A4%9A%E7%BD%91)
 
 <!--endsec-->
 
@@ -29,7 +31,9 @@ FidoNet是1984年建立的基于电话线的BBS协议，中国惠多网CFIDO建�
 
 <!--sec data-title="Studywith知识链接" data-id="section84" data-show=true ces-->
 
-（_**TAM**_：求伯君）
+可能是中国最早的程序员
+
+1984年即大学毕业的求伯君，在1994年创立金山公司，直到今天，金山依然是中国知名的互联网企业。
 
 **为什么需要了解**
 
@@ -39,7 +43,7 @@ FidoNet是1984年建立的基于电话线的BBS协议，中国惠多网CFIDO建�
 
 <!--sec data-title="链接内容" aria-expanded="false" data-id="section85" data-show=false ces-->
 
-链接
+[百度百科链接](https://baike.baidu.com/item/%E6%B1%82%E4%BC%AF%E5%90%9B)
 
 <!--endsec-->
 

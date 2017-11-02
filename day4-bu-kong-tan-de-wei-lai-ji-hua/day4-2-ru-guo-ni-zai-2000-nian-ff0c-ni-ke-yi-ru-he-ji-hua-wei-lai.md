@@ -28,7 +28,9 @@
 
 <!--sec data-title="Studywith知识链接" data-id="section76" data-show=true ces-->
 
-（_**TAM**_：8848）
+最早的电商尝试
+
+在马云的淘宝帝国之前，其实早已有一个学习美国ebay模式的电商网站8848，但最后成功的依然是马云。
 
 **为什么需要了解**
 
@@ -38,7 +40,7 @@
 
 <!--sec data-title="链接内容" aria-expanded="false" data-id="section77" data-show=false ces-->
 
-链接
+[百度百科链接](https://baike.baidu.com/item/8848/846311)
 
 <!--endsec-->
 
@@ -47,7 +49,9 @@
 
 <!--sec data-title="Studywith知识链接" data-id="section78" data-show=true ces-->
 
-（_**TAM**_：第一次互联网泡沫破灭）
+不总是这么辉煌
+
+早在1995年，其实是互联网最早的时期，在所有人都相信，这是巨大机遇的时候，纳斯达克遭遇滑铁卢，这次危机一直持续到2004年。
 
 **为什么需要了解**
 
@@ -57,7 +61,7 @@
 
 <!--sec data-title="链接内容" aria-expanded="false" data-id="section79" data-show=false ces-->
 
-链接
+[维基百科中文链接](https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%AF%E7%B6%B2%E6%B3%A1%E6%B2%AB)
 
 <!--endsec-->
 
@@ -67,7 +71,9 @@
 
 <!--sec data-title="Studywith知识链接" data-id="section80" data-show=true ces-->
 
-（_**TAM**_：新概念作文大赛）
+曾经的青少年梦想
+
+萌芽作文大赛是1998年开始，直到现在仍然在举办的全国性写作比赛，1999年冠军为韩寒，2001，2002年冠军为郭敬明。
 
 **为什么需要了解**
 
@@ -77,7 +83,7 @@
 
 <!--sec data-title="链接内容" aria-expanded="false" data-id="section81" data-show=false ces-->
 
-链接
+[维基百科中文链接](https://zh.wikipedia.org/wiki/%E6%96%B0%E6%A6%82%E5%BF%B5%E4%BD%9C%E6%96%87%E5%A4%A7%E8%B5%9B)
 
 <!--endsec-->
 
