@@ -23,7 +23,7 @@
 
 <!--sec data-title="安东尼·吉登斯及其社会学理论简介" aria-expanded="false" data-id="section1" data-show=false ces-->
 
-链接内容...
+链接内容摘录...
 
 **原文链接：**
 [中文内容链接](http://shehuixue.h.baike.com/article-118454.html) [英文内容链接](https://en.wikipedia.org/wiki/Anthony_Giddens)
