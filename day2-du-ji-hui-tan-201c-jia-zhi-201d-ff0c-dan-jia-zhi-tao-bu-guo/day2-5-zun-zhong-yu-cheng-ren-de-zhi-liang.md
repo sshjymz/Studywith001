@@ -2,17 +2,25 @@
 
 抛开经济收益不谈，流量确实可以带来大量经济收益，但似乎人不满足于金钱这一点我们已经论证了。
 
-> ##### Studywith知识链接
->
-> ##### 到底什么是良好生活
+<!--sec data-title="Studywith知识链接" data-id="section40" data-show=true ces-->
+
+到底什么是良好生活
 >
 > 今天第一个是陈嘉映老师《何为良好生活》的一篇书评，第二个是讽刺的一个日本的出版物《何为美好生活》，内容与陈老师的书相映成趣。
 >
 > **为何要了解：**
 >
 > 这本书已经很有名了，当然我们相信在未来这本书还会扮演更重要的价值。
->
+
+<button class="section" target="section41" show="展开具体内容" hide="收起具体内容" ></button>
+
+<!--endsec-->
+
+<!--sec data-title="链接主题" aria-expanded="false" data-id="section41" data-show=false ces-->
+
 > [书评内容链接](https://book.douban.com/review/7488857/)  [日本一个名字非常类似的书籍链接](https://book.douban.com/review/8573000/)
+
+<!--endsec-->
 
 现在给你几种选择，一方面是在快手上有40万粉丝，每天给你狂打“666”，另一方面是你在大学由衷尊敬的教授（如果你现在没有你就假设这个人是写作《何为良好生活》的陈嘉映教授）由衷的赞赏你一次。或者一方面是在微博上有100万粉丝，另一方面是你能获得5个真正的挚友。
 
@@ -22,17 +30,25 @@
 
 * 前者需要你迎合些社会趣味，成为一个标题党，懂得如何挑动你受众的注意力和情绪
 
-> ##### Studywith知识链接
->
-> ##### 标题是怎么起出来的？
+<!--sec data-title="Studywith知识链接" data-id="section42" data-show=true ces-->
+
+标题是怎么起出来的？
 >
 > 用户本位？挑战常识？利益点？擦边球？这确实是我们看到的文章标题的全部，你会尊重这种文章吗？
 >
 > **为何要了解：**
 >
 > 知道了，下次可能就可以忍住不点开了。
->
+
+<button class="section" target="section43" show="展开具体内容" hide="收起具体内容" ></button>
+
+<!--endsec-->
+
+<!--sec data-title="链接主题" aria-expanded="false" data-id="section43" data-show=false ces-->
+
 > [内容链接](http://k.sina.cn/article_5903399489_15fdeba41001001856.html?cre=aspect&mod=r&loc=5&r=9&doct=0&rfunc=0)
+
+<!--endsec-->
 
 * 后者呢？可能需要你的真本事和好品格吧
 
