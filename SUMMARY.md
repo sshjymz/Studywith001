@@ -24,7 +24,7 @@
 * [DAY2-5 尊重与承认的质量](day2-du-ji-hui-tan-201c-jia-zhi-201d-ff0c-dan-jia-zhi-tao-bu-guo/day2-5-zun-zhong-yu-cheng-ren-de-zhi-liang.md)
 * [DAY2-6 由仁义行，非行仁义](day2-du-ji-hui-tan-201c-jia-zhi-201d-ff0c-dan-jia-zhi-tao-bu-guo/day2-6-you-ren-yi-xing-ff0c-fei-xing-ren-yi.md)
 * [DAY2-7 幸福会不会指较少的羞愧和内疚](day2-du-ji-hui-tan-201c-jia-zhi-201d-ff0c-dan-jia-zhi-tao-bu-guo/day2-7-xing-fu-hui-bu-hui-zhi-jiao-shao-de-xiu-kui-he-nei-jiu.md)
-* DAY2-8 第二天延伸阅读和知识
+* [DAY2-8 第二天延伸阅读和知识](day2-du-ji-hui-tan-201c-jia-zhi-201d-ff0c-dan-jia-zhi-tao-bu-guo/day2-8-di-er-tian-yan-shen-yue-du-he-zhi-shi.md)
 
 ## DAY3 来当一天的未来学家
 
@@ -34,7 +34,7 @@
 * [DAY3-4 那么我们干什么呢？](day3-lai-dang-yi-tian-de-wei-lai-xue-jia/day3-4-na-yao-wo-men-gan-shi-yao-ni-ff1f.md)
 * [DAY3-5 那是不是我们开始做创造性工作就好了？](day3-lai-dang-yi-tian-de-wei-lai-xue-jia/day3-5-na-shi-bu-shi-wo-men-kai-shi-zuo-chuang-zao-xing-gong-zuo-jiu-hao-le-ff1f.md)
 * [DAY3-6 识别虚假的未来趋势](day3-lai-dang-yi-tian-de-wei-lai-xue-jia/day3-6-shi-bie-xu-jia-de-wei-lai-qu-shi.md)
-* DAY3-7 第三天延伸阅读和知识
+* [DAY3-7 第三天延伸阅读和知识](day3-lai-dang-yi-tian-de-wei-lai-xue-jia/day3-7-di-san-tian-yan-shen-yue-du-he-zhi-shi.md)
 
 ## DAY4 不空谈的未来计划
 
@@ -43,5 +43,5 @@
 * [DAY4-3 从互联网巨头们早期生活的启示](day4-bu-kong-tan-de-wei-lai-ji-hua/day4-3-cong-hu-lian-wang-ju-tou-men-zao-qi-sheng-huo-de-qi-shi.md)
 * [DAY4-4 一个计划就是一种生活](day4-bu-kong-tan-de-wei-lai-ji-hua/day4-4-yi-ge-ji-hua-jiu-shi-yi-zhong-sheng-huo.md)
 * [DAY4-5 什么在支撑一个生活方式](day4-bu-kong-tan-de-wei-lai-ji-hua/day4-4-shi-yao-zai-zhi-cheng-yi-ge-sheng-huo-fang-shi.md)
-* DAY4-6 第四天延伸阅读和知识
+* [DAY4-6 第四天延伸阅读和知识](day4-bu-kong-tan-de-wei-lai-ji-hua/day4-6-di-si-tian-yan-shen-yue-du-he-zhi-shi.md)
 
