@@ -1,6 +1,20 @@
 ## DAY3-5 那是不是我们开始做创造性工作就好了？
 
+<!--sec data-title="Studywith知识链接" data-id="section72" data-show=true ces-->
+
 （_**TAM**_：休闲生活的数据）
+
+**为什么需要了解**
+
+<button class="section" target="section73" show="展开具体内容" hide="收起具体内容" ></button>
+
+<!--endsec-->
+
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section73" data-show=false ces-->
+
+链接
+
+<!--endsec-->
 
 那么是不是我们就开始学绘画，戏剧，电影，然后开始创作就好了。在开始为自己选择之前，先看看以下的问题：
 
