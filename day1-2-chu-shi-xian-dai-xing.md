@@ -7,7 +7,7 @@
 
 看到这个内容的大多数人出生于1990 - 2000年，也就是说，我们直接生长于一个“现代”的社会，因此很多在我们看来“现成”或是“理所应当”的事情，其实在30 - 40年前，还并不是这样，所以理解“现代性”这个问题，是一个很好的入手点。很多人在开始认识“现代性”之后，才开始知道这个如此重要。
 
-<!--sec data-title="Studywith知识链接：安东尼 • 吉登斯：理解现代问题和现代自我最重要的尝试" data-id="section0" data-show=true ces-->
+<!--sec data-title="Studywith知识链接" data-id="section0" data-show=true ces-->
 
 安东尼 • 吉登斯：理解现代问题和现代自我最重要的尝试
 
@@ -17,13 +17,13 @@
 
 如果你系统的理解了吉登斯的理论，你才可以真的开始理解现代社会的具体现象，不论小到偶像崇拜，大到消费主义，或是小到为何我们总是很难对自己作出改变，大到我们为何不能再接受知识。
 
-<button class="section" target="section1" hide="Hide next section" show="Show next section" ></button>
+<button class="section" target="section1" show="Show next section" hide="Hide next section" ></button>
 
 <!--endsec-->
 
 <!--sec data-title="安东尼·吉登斯及其社会学理论简介" data-id="section1" data-show=false ces-->
 
-链接内容摘抄...
+链接内容...
 
 **原文链接：**
 [中文内容链接](http://shehuixue.h.baike.com/article-118454.html) [英文内容链接](https://en.wikipedia.org/wiki/Anthony_Giddens)
