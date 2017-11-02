@@ -14,7 +14,7 @@
 
 既然我们一定要获得承认，就要明白合理的健康的承认形式，和我们现在广泛存在的病态的承认和来自这种缘由的互相攻击。如果你希望获得承认，那么也需要一个良好的路径。
 
-<button class="section" target="section227" show="展开具体内容" hide="收起具体内容" ></button>
+<button class="section" target="section27" show="展开具体内容" hide="收起具体内容" ></button>
 
 <!--endsec-->
 
