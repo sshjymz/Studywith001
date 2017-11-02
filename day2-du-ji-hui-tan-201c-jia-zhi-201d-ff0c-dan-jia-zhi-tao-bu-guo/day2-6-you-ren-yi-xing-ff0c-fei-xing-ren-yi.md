@@ -7,17 +7,25 @@
 
 你恰恰需要不这样想，不是因为“关怀”有价值，而是你真的想要关怀。即便别人暂时可能因此恨你。
 
-> ##### Studywith知识链接
->
-> ##### 回顾一个我们曾经的名篇
+<!--sec data-title="Studywith知识链接" data-id="section44" data-show=true ces-->
+
+回顾一个我们曾经的名篇
 >
 > 这个不用多说了，关于道德与生活的关系，值得再次回顾。
 >
 > **为何要了解：**
 >
 > 如果你能不把这个看作“道德教化”和“大道理”，能看到这里面有人性的道理并理解，就开始真的有大收获了。
->
+
+<button class="section" target="section45" show="展开具体内容" hide="收起具体内容" ></button>
+
+<!--endsec-->
+
+<!--sec data-title="链接主题" aria-expanded="false" data-id="section45" data-show=false ces-->
+
 > [内容链接](http://www.gushiwen.org/GuShiWen_fac451b088.aspx)
+
+<!--endsec-->
 
 我们都学过名篇《孟子见梁惠王》，但恐怕都早已经忘记：
 
@@ -39,17 +47,25 @@
 
 下面的这个课程，是值得一看再看的。
 
-> ##### Studywith知识链接
->
-> ##### 系统的再次唤起善对于你的意义
+<!--sec data-title="Studywith知识链接" data-id="section46" data-show=true ces-->
+
+系统的再次唤起善对于你的意义
 >
 > 哈佛大学最受欢迎的课程，桑德尔的公正课，你可能听过很多次了，但是还没有看过
 >
 > **为何要了解：**
 >
 > 在你的求知过程中，会对自己过去无知的程度感到吃惊，这就是你看公正课的感觉。
->
+
+<button class="section" target="section47" show="展开具体内容" hide="收起具体内容" ></button>
+
+<!--endsec-->
+
+<!--sec data-title="链接主题" aria-expanded="false" data-id="section47" data-show=false ces-->
+
 > [内容链接](http://open.163.com/special/justice/)
+
+<!--endsec-->
 
 ---
 
