@@ -59,7 +59,7 @@
 > ##### Studywith小词条：汉娜 • 阿伦特的洞察
 > 这是指阿伦特在二战后对德国犹太人大屠杀暴行的一种理解，我们也都听过所谓“枪口太高一厘米”的说法。意思是说即使人是社会的一颗螺丝钉，人也需要对自己独立的行为负责。因此一个即便接受命令的人，也无法免责，因为人一定要对自己单独负责。
 
-<!--sec data-title="Studywith知识链接" data-id="section26" data-show=true ces-->
+<!--sec data-title="Studywith知识链接" data-id="section28" data-show=true ces-->
 
 承认毕竟是一个人与人之间的事情
 >
@@ -69,11 +69,11 @@
 >
 > 承认是从一个人的角度出发，哈贝马斯给出了一个超出个体的角度和理论，是乐观积极的现代性批判中最具代表性的人物。
 
-<button class="section" target="section27" show="展开具体内容" hide="收起具体内容" ></button>
+<button class="section" target="section29" show="展开具体内容" hide="收起具体内容" ></button>
 
 <!--endsec-->
 
-<!--sec data-title="链接主题" aria-expanded="false" data-id="section27" data-show=false ces-->
+<!--sec data-title="链接主题" aria-expanded="false" data-id="section29" data-show=false ces-->
 
 > [内容链接](http://www.aisixiang.com/data/26030.html)
 
