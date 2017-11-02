@@ -4,7 +4,21 @@
 
 我们会像马克思说的一样，开始追求我们的兴趣吗？那么你的兴趣是什么呢？游戏？电视剧？美食？旅行？这些都不是问题，你可以比现在10倍百倍的享受这些休闲生活，听起来也许不错，但不要忘记了我们在第二章分辨过的，或者听听罗斯福的这句话：
 
+<!--sec data-title="Studywith知识链接" data-id="section70" data-show=true ces-->
+
 （_**TAM**_：罗斯福这段话的背景）
+
+**为什么需要了解**
+
+<button class="section" target="section71" show="展开具体内容" hide="收起具体内容" ></button>
+
+<!--endsec-->
+
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section71" data-show=false ces-->
+
+链接
+
+<!--endsec-->
 
 > “没有一个国家——无论多么富裕，可以承受对人力资源的浪费。哪怕你不喜欢工作，但那种 “我们不需要你” 的感觉并不好受，甚至将可能引发不安和混乱。人们希望感到被需要，想要有些生产性的事情来做。”
 
