@@ -2,7 +2,21 @@
 
 苏格拉底的名言大家都听过了：未经省察的人生没有价值。这句话人人都会说，但具体是什么意思呢？
 
+<!--sec data-title="Studywith知识链接" data-id="section86" data-show=true ces-->
+
 （_**TAM**_：德尔菲神谕）
+
+**为什么需要了解**
+
+<button class="section" target="section87" show="展开具体内容" hide="收起具体内容" ></button>
+
+<!--endsec-->
+
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section87" data-show=false ces-->
+
+链接
+
+<!--endsec-->
 
 苏格拉底被德尔菲神谕称为“雅典最有智慧的人”，他曾经因此饱受困然不只原因，后来省察发现不过是“苏格拉底知道自己的无知”而其他人不知道罢了。省察的结果是“自己无知”，想来不是个什么令人愉快的感觉。
 
