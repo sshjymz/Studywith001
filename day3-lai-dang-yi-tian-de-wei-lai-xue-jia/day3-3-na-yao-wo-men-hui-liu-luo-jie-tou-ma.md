@@ -6,7 +6,21 @@
 * 无条件基本工资 Universal Basic Income：
   * TEDx的一个介绍 [链接](https://www.bilibili.com/video/av4618385/?from=search&seid=14802677454932633704)
   * 另一个针对技术性失业的UBI介绍 [链接](https://futurism.com/images/universal-basic-income-answer-automation/)
-  * 2016年瑞士已经进行一次针对UBI的全民公决，虽然未被通过 （_**TAM**_：现有国家的TBI趋势）
+  * 2016年瑞士已经进行一次针对UBI的全民公决，虽然未被通过 
+
+<!--sec data-title="Studywith知识链接" data-id="section66" data-show=true ces-->
+
+（_**TAM**_：现有国家的TBI趋势）
+
+**为什么需要了解**
+
+<button class="section" target="section67" show="展开具体内容" hide="收起具体内容" ></button>
+
+<!--endsec-->
+
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section67" data-show=false ces-->
+
+<!--endsec-->
 
 UBI（&nbsp;&nbsp;**Studywith小词条UBI**&nbsp;&nbsp;:&nbsp;Universal Basic Income，全民无条件基本收入计划。很多国家在制定和实现的一种针对所有人的无条件基础月薪，是人工智能时代的一个重要的体制。也是我们本次介绍的一个很核心的内容。&nbsp;&nbsp;）当然是未来必然会发生的事情，面对超高失业率，政府不可能让失业者饿死，有人说羊毛出在羊身上，到头来还是老百姓埋单，错，当然是以很高比率采用机器人和人工智能的企业政府课以重税来埋单。
 
@@ -14,7 +28,19 @@ UBI（&nbsp;&nbsp;**Studywith小词条UBI**&nbsp;&nbsp;:&nbsp;Universal Basic In
 
 而且不要一位每个月这个钱只够你糊口，你的生活水平会比现在好的多。当然，一个现在的城市农民工也比1980年城里的普通家庭生活条件好得多得多，这并不代表“幸福感”会更高，这是个复杂问题。
 
+<!--sec data-title="Studywith知识链接" data-id="section68" data-show=true ces-->
+
 （_**TAM**_：幸福的比较理论）
+
+**为什么需要了解**
+
+<button class="section" target="section69" show="展开具体内容" hide="收起具体内容" ></button>
+
+<!--endsec-->
+
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section69" data-show=false ces-->
+
+<!--endsec-->
 
 ---
 
