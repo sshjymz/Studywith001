@@ -1,6 +1,20 @@
 ## DAY4-3 从互联网巨头们早期生活的启示
 
+<!--sec data-title="Studywith知识链接" data-id="section82" data-show=true ces-->
+
 （_**TAM**_：惠多网）
+
+**为什么需要了解**
+
+<button class="section" target="section83" show="展开具体内容" hide="收起具体内容" ></button>
+
+<!--endsec-->
+
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section83" data-show=false ces-->
+
+链接
+
+<!--endsec-->
 
 首先要介绍的是惠多网（&nbsp;&nbsp;**Studywith小词条惠多网**&nbsp;&nbsp;:&nbsp;起源于1991年，盛行与1993 - 1998年的一种前互联网时代的，通过电话线路连接的BBS网络。&nbsp;&nbsp;），这是大多数人都不知道的事情。
 
@@ -13,7 +27,21 @@ FidoNet是1984年建立的基于电话线的BBS协议，中国惠多网CFIDO建�
 * 马云也是杭州站非常活跃的人物
 * 张小龙也是早期惠多的使用者
 
+<!--sec data-title="Studywith知识链接" data-id="section84" data-show=true ces-->
+
 （_**TAM**_：求伯君）
+
+**为什么需要了解**
+
+<button class="section" target="section85" show="展开具体内容" hide="收起具体内容" ></button>
+
+<!--endsec-->
+
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section85" data-show=false ces-->
+
+链接
+
+<!--endsec-->
 
 ![](/assets/26.jpg)
 
