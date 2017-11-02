@@ -10,9 +10,13 @@
 
 <!--sec data-title="Studywith知识链接" data-id="section66" data-show=true ces-->
 
-（_**TAM**_：现有国家的TBI趋势）
+关于无差别基本收入的概念
+
+这一段TED演讲比较清楚的阐述了这个计划的基本背景和原理
 
 **为什么需要了解**
+
+希望这个可以给你的未来带来不错的基础安全感。
 
 <button class="section" target="section67" show="展开具体内容" hide="收起具体内容" ></button>
 
@@ -20,7 +24,7 @@
 
 <!--sec data-title="链接内容" aria-expanded="false" data-id="section67" data-show=false ces-->
 
-链接
+[TED演讲链接](https://www.bilibili.com/video/av4618385/?from=search&seid=14802677454932633704)
 
 <!--endsec-->
 
@@ -32,9 +36,13 @@ UBI（&nbsp;&nbsp;**Studywith小词条UBI**&nbsp;&nbsp;:&nbsp;Universal Basic In
 
 <!--sec data-title="Studywith知识链接" data-id="section68" data-show=true ces-->
 
-（_**TAM**_：幸福的比较理论）
+有钱不幸福，比别人有钱才幸福
+
+收入的平均水平与幸福有很大的相关性，这篇论文以长期的数据对比证明了这个趋势
 
 **为什么需要了解**
+
+UBI只是你最基础的安全感，但确实在任何意义上，都与你的幸福没有关系。
 
 <button class="section" target="section69" show="展开具体内容" hide="收起具体内容" ></button>
 
@@ -42,7 +50,7 @@ UBI（&nbsp;&nbsp;**Studywith小词条UBI**&nbsp;&nbsp;:&nbsp;Universal Basic In
 
 <!--sec data-title="链接内容" aria-expanded="false" data-id="section69" data-show=false ces-->
 
-链接
+[内容链接](http://languageandmemory.net/documents/Oishi-Kesebir-Diener-InequalityandHappiness-PsychScience.pdf)
 
 <!--endsec-->
 
