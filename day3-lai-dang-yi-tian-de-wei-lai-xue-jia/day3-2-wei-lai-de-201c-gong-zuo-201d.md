@@ -7,9 +7,13 @@
 
 <!--sec data-title="Studywith知识链接" data-id="section54" data-show=true ces-->
 
-（_**TAM**_：标准的工作定义）
+关于工作的系统反思
+
+这是关于《工作的历史》这本书的书评，整理的很好，对其中的内容也不偏不倚。
 
 **为什么需要了解**
+
+工作如何能够不是禁锢，而是一种自由，这是每个人都想要的吧。
 
 <button class="section" target="section55" show="展开具体内容" hide="收起具体内容" ></button>
 
@@ -17,7 +21,7 @@
 
 <!--sec data-title="链接内容" aria-expanded="false" data-id="section55" data-show=false ces-->
 
-链接
+[《工作的历史》书评](https://book.douban.com/review/5086098/)
 
 <!--endsec-->
 
@@ -30,9 +34,13 @@
 
 <!--sec data-title="Studywith知识链接" data-id="section56" data-show=true ces-->
 
-（_**TAM**_：技术性失业）
+未来的工作什么样？
+
+未来工作与技术性失业是本次的一个重点内容，我们拿出了三个内容，两个很棒的TED演讲，和芬兰可能到达47%失业率的一个分析。
 
 **为什么需要了解**
+
+理解技术性失业不是悲观的接受“我必将失业”的结果。而是找到“我能做什么”的线索。
 
 <button class="section" target="section57" show="展开具体内容" hide="收起具体内容" ></button>
 
@@ -40,7 +48,9 @@
 
 <!--sec data-title="链接内容" aria-expanded="false" data-id="section57" data-show=false ces-->
 
-链接
+[第一个TED演讲](https://www.ted.com/talks/andrew_mcafee_what_will_future_jobs_look_like/transcript?language=zh-cn)
+[第二个TED演讲](https://www.ted.com/talks/david_autor_why_are_there_still_so_many_jobs)
+[内容链接](https://www.andersinnovations.com/zh-hans/blog/technological-unemployment-is-finland-ready-for-47-percent-unemployment/)
 
 <!--endsec-->
 
@@ -60,11 +70,26 @@
 
 <!--sec data-title="Studywith知识链接" data-id="section58" data-show=true ces-->
 
-（_**TAM**_：LawGeex）
-（_**TAM**_：Watson）
-（_**TAM**_：Woebot）
+**1.LawGeex**
+人工智能和机器人替代的是体力劳动吗？
+来看看典型的白领文案类智力工作合同审核如何被自动化替代。
 
 **为什么需要了解**
+这是一种基础，让我们理解很多脑力劳动其实是流程化，很容易被计算机自动化的，想想你的工作，是这种可以快速自动化的工作吗？
+
+**2.Watson**
+有更厉害的系统吗？
+当然，IBM Watson是向强人工智能发展的一个IBM的AI平台，已经在很多领域开展了他的应用。
+
+**为什么需要了解**
+如果超出流程性活动，计算机现在可以做到什么地步呢？这个内容应该让你有所警觉。
+
+**3.Woebot**
+就在我们准备文档的时候，吴恩达有了新动向。
+百度费劲心思挖来的Google Brain联合创始人，从百度首席科学家位置上退下后，竟然选择加入了这家初创公司Woebot，他们是做什么的？
+
+**为什么需要了解**
+一些传统的我们认为仅仅人可以做的工作，当然计算机可以不必真的拥有意识，也可以很好的完成。
 
 <button class="section" target="section59" show="展开具体内容" hide="收起具体内容" ></button>
 
@@ -72,7 +97,11 @@
 
 <!--sec data-title="链接内容" aria-expanded="false" data-id="section59" data-show=false ces-->
 
-链接
+[LawGeex内容链接](https://36kr.com/p/5070840.html)
+[Watson内容链接1](http://www.sohu.com/a/131198050_618809)
+[Watson内容链接2](http://www.jiemian.com/article/1177345.html)
+[Woebot内容链接1](https://headshrinkerspocket.blogspot.com/2017/06/woebotai.html)
+[Woebot内容链接2](https://www.leiphone.com/news/201710/wLveqpqh3cP8C66F.html)
 
 <!--endsec-->
 
@@ -80,9 +109,13 @@
 
 <!--sec data-title="Studywith知识链接" data-id="section60" data-show=true ces-->
 
-（_**TAM**_：AI对心理学的替代）
+其实好好想想，自动化编程早已有了
+
+如果你对程序比较熟悉，各个框架本身其实就是不同的自动化方案，这种1编程的内容未来一定会越来越多，直到与产品设计环节直接衔接或与数据直衔接的编程。
 
 **为什么需要了解**
+
+可能大家能够达成一个共识，未来最有前途的领域是程序，尤其是人工智能领域，因此我们直觉的认为“程序员”可能是未来最有前途的行业和工作。当然，但是未来究竟需要多少程序员？还会像现在一样需要这么多吗？
 
 <button class="section" target="section61" show="展开具体内容" hide="收起具体内容" ></button>
 
@@ -90,31 +123,16 @@
 
 <!--sec data-title="链接内容" aria-expanded="false" data-id="section61" data-show=false ces-->
 
-链接
+[知乎问题链接](https://www.zhihu.com/question/54500288)
+[一篇文章链接](https://www.newscientist.com/article/mg23331144-500-ai-learns-to-write-its-own-code-by-stealing-from-other-programs/)
 
 <!--endsec-->
 
 当然我们还认为“艺术”是人工智能不能替代的，那么看看下面的：
 
-* Emily Howell（这已经是8年前的事情了）
+* Emily Howell（这已经是8年前的事情了）[收听链接](http://www.bilibili.com/video/av13956132/)
 * [第一部](https://arstechnica.com/gaming/2016/06/an-ai-wrote-this-movie-and-its-strangely-moving/) [第二部](https://thenextweb.com/artificial-intelligence/2017/04/26/ai-movie-hasselhoff-artificial-intelligence-2/) 纯人工智能编剧的剧本制成的小电影
 * Google AI Doodle [链接](https://www.theverge.com/2017/4/11/15263434/google-ai-autodraw-doodle-bot-drawing-image-recognition)
-
-<!--sec data-title="Studywith知识链接" data-id="section62" data-show=true ces-->
-
-（_**TAM**_：收听的链接）
-
-**为什么需要了解**
-
-<button class="section" target="section63" show="展开具体内容" hide="收起具体内容" ></button>
-
-<!--endsec-->
-
-<!--sec data-title="链接内容" aria-expanded="false" data-id="section63" data-show=false ces-->
-
-链接
-
-<!--endsec-->
 
 所以什么“工作”不是人工智能可以替代的呢？当然人工智能不是全能的，也许人工智能永远不能拥有人的意识，但这有什么关系？边写代码，游戏，生产产品，运输，统计帐目，制作电视剧和电影，设计海报，撰写小说，这些已经足于提到99%的人的工作了吧。
 
@@ -134,9 +152,13 @@
 
 <!--sec data-title="Studywith知识链接" data-id="section64" data-show=true ces-->
 
-（_**TAM**_：精英统治论）
+未来到底谁主沉浮
+
+不管你是不是注意到了，自由与平等都是我们这个社会得以稳定的基础观念，我们难以想像如果一个社会这两个基础被打破是什么样的，但是确实，现在我们面临这样的挑战。
 
 **为什么需要了解**
+
+这是一个很容易被接受的观点，未来会进化出新的人类精英，而他们会靠数据来统治其他人，而这些是我们无法改变的。如果你接受这一点，那么你现在要思考的，就是如何来改变，不然苟活着是为了什么？
 
 <button class="section" target="section65" show="展开具体内容" hide="收起具体内容" ></button>
 
@@ -144,7 +166,7 @@
 
 <!--sec data-title="链接内容" aria-expanded="false" data-id="section65" data-show=false ces-->
 
-链接
+[内容链接](http://book.ifeng.com/a/20161229/20818_0.shtml)
 
 <!--endsec-->
 
