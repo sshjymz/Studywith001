@@ -40,6 +40,8 @@
 
 <!--sec data-title="链接内容" aria-expanded="false" data-id="section57" data-show=false ces-->
 
+链接
+
 <!--endsec-->
 
 对于我还能有工作吗？其实是两个问题：
@@ -70,6 +72,8 @@
 
 <!--sec data-title="链接内容" aria-expanded="false" data-id="section59" data-show=false ces-->
 
+链接
+
 <!--endsec-->
 
 当然曾经我们认为围棋是没有固定章法和定势的，是不可算的，结果你们都知道了。我们也可以认为心理咨询师的工作机器人一定做不了，因为人心是不可算的，当然，如果有学心理学的同学就明白，意识不可算，但心理诊疗过程难道不是个有极强的handbook倾向（&nbsp;&nbsp;**Studywith小词条handbook倾向**&nbsp;&nbsp;:&nbsp;这个倾向指的是一种按照手册照章办事的工作倾向。事实上大量的心理医生工作，是按照心理医师学会的的一些手册进行诊断和判断的工作类型，更容易理解的就是我们的官僚审查的工作，都是照章办事，这种工作最容易被替代。&nbsp;&nbsp;）的流程性工作吗？
@@ -85,6 +89,8 @@
 <!--endsec-->
 
 <!--sec data-title="链接内容" aria-expanded="false" data-id="section61" data-show=false ces-->
+
+链接
 
 <!--endsec-->
 
@@ -105,6 +111,8 @@
 <!--endsec-->
 
 <!--sec data-title="链接内容" aria-expanded="false" data-id="section63" data-show=false ces-->
+
+链接
 
 <!--endsec-->
 
@@ -135,6 +143,8 @@
 <!--endsec-->
 
 <!--sec data-title="链接内容" aria-expanded="false" data-id="section65" data-show=false ces-->
+
+链接
 
 <!--endsec-->
 
