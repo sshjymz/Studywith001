@@ -32,7 +32,7 @@
 
 对于今天的问题，主要来自安东尼吉登斯的《现代性的后果》与《现代性与自我认同》两本书籍，安东尼 • 吉登斯是当代社会学大家，是“现代性问题”总结的最好的人。
 
-<!--sec data-title="Studywith知识链接" data-id="section0" data-show=true ces-->
+<!--sec data-title="Studywith知识链接" data-id="section2" data-show=true ces-->
 
 安东尼•吉登斯《现代性的后果》：预言家般的现代洞察
 
@@ -42,11 +42,11 @@
 
 这篇豆瓣书评对于这本书做了一些概要性的梳理，你能够得以理解这本书的基础内容是什么。这当然决不能替代你对于这本书的阅读，一定要读。
 
-<button class="section" target="section2" show="展开具体内容" hide="收起具体内容" ></button>
+<button class="section" target="section3" show="展开具体内容" hide="收起具体内容" ></button>
 
 <!--endsec-->
 
-<!--sec data-title="链接主题" aria-expanded="false" data-id="section2" data-show=false ces-->
+<!--sec data-title="链接主题" aria-expanded="false" data-id="section3" data-show=false ces-->
 
 [内容链接](https://book.douban.com/review/4949439/)
 
@@ -57,7 +57,7 @@
 * 为什么我们生活的社会是这样（其实这个社会与一直发展过来的）
 * 现在的诸多问题（经济问题，政治问题，现代人的心灵问题）是怎么回事？
 
-<!--sec data-title="Studywith知识链接" data-id="section0" data-show=true ces-->
+<!--sec data-title="Studywith知识链接" data-id="section4" data-show=true ces-->
 
 现代性问题中的“自我”核心
 这篇文章是一篇对现代性与“自我”问题的剖析，针对这本书的创见性和大致内容进行了描述。
@@ -66,11 +66,11 @@
 
 如果要更好的理解“自我”的问题，这与“现代性”的话题有很大的关系，而吉登斯的这本书确实对里面最重要的一些问题，都给出相当好的认识框架。
 
-<button class="section" target="section3" show="展开具体内容" hide="收起具体内容" ></button>
+<button class="section" target="section5" show="展开具体内容" hide="收起具体内容" ></button>
 
 <!--endsec-->
 
-<!--sec data-title="链接主题" aria-expanded="false" data-id="section3" data-show=false ces-->
+<!--sec data-title="链接主题" aria-expanded="false" data-id="section5" data-show=false ces-->
 
 [内容链接](http://blog.sina.com.cn/s/blog_4b4af0070102uzg9.html)
 
@@ -95,11 +95,11 @@
 
 现代性问题可能还是一个令人比较陌生的话题，尤其是这个如此抽象的话题，到底要说什么？为什么要分析这些问题，通过这个分辨，还是可以找到一些线索。
 
-<button class="section" target="section2" show="展开具体内容" hide="收起具体内容" ></button>
+<button class="section" target="section6" show="展开具体内容" hide="收起具体内容" ></button>
 
 <!--endsec-->
 
-<!--sec data-title="链接主题" aria-expanded="false" data-id="section2" data-show=false ces-->
+<!--sec data-title="链接主题" aria-expanded="false" data-id="section6" data-show=false ces-->
 
 [内容链接](https://www.zhihu.com/question/24418080)
 <!--endsec-->
