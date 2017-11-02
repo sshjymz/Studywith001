@@ -9,31 +9,47 @@
 
 ![](/assets/6.jpg)
 
-> ##### Studywith知识链接
->
-> ##### 一种极其广泛存在的现代心理症状
->
-> 这里我们给出了两个内容，一个是关于焦虑的一篇《纽约时报》的文章，关于焦虑的“现代性”根源，以及焦虑的两面性，将焦虑视作一种必须要解决的“问题”，说不定也是一种很现代的想法。第二篇内容关于“广泛性焦虑症”，这是一种在现代非常常见的心理症状，尤其是他的特点——“为了焦虑的焦虑”。
->
-> **为何要了解：**
->
-> 焦虑是一个简单的心理感受吗？如果能够对焦虑本身有更好的认识，是能够对很多问题，尤其是我们的做法和策略，给出更好理解和认识。
->
-> [纽约时报内容链接](http://webcache.googleusercontent.com/search?q=cache:AT-QhyY2lPYJ:https://cn.nytstyle.com/books/20140219/t19anxiety/&num=1&lr=lang_en|lang_zh-CN|lang_zh-TW&hl=en&gl=us&tbs=lr:lang_1en|lang_1zh-CN|lang_1zh-TW&strip=1&vwsrc=0)  [广泛性焦虑症链接](https://zh.wikipedia.org/wiki/广泛性焦虑症)
+<!--sec data-title="Studywith知识链接" data-id="section6" data-show=true ces-->
+
+一种极其广泛存在的现代心理症状
+这里我们给出了两个内容，一个是关于焦虑的一篇《纽约时报》的文章，关于焦虑的“现代性”根源，以及焦虑的两面性，将焦虑视作一种必须要解决的“问题”，说不定也是一种很现代的想法。第二篇内容关于“广泛性焦虑症”，这是一种在现代非常常见的心理症状，尤其是他的特点——“为了焦虑的焦虑”。
+
+**为何要了解：**
+
+焦虑是一个简单的心理感受吗？如果能够对焦虑本身有更好的认识，是能够对很多问题，尤其是我们的做法和策略，给出更好理解和认识。
+
+<button class="section" target="section7" show="展开具体内容" hide="收起具体内容" ></button>
+
+<!--endsec-->
+
+<!--sec data-title="链接主题" aria-expanded="false" data-id="section7" data-show=false ces-->
+
+[纽约时报内容链接](http://webcache.googleusercontent.com/search?q=cache:AT-QhyY2lPYJ:https://cn.nytstyle.com/books/20140219/t19anxiety/&num=1&lr=lang_en|lang_zh-CN|lang_zh-TW&hl=en&gl=us&tbs=lr:lang_1en|lang_1zh-CN|lang_1zh-TW&strip=1&vwsrc=0) 
+[广泛性焦虑症链接](https://zh.wikipedia.org/wiki/广泛性焦虑症)
+
+<!--endsec-->
 
 当然这个对实际未来的影响是几乎没有的，因此不可取。
 
-> ##### Studywith知识链接
->
-> ##### 大多数对“焦虑”的手段都是虚妄的
->
-> 我们同样给出了两个内容，一个是一本叫做“精神焦虑症的自救”这样书籍的书评，一个是知乎关于克服焦虑的一个答案。你同时能够发现，他们给出的方法本身有多么的荒唐。绝大多数时候，我们采取的“解除焦虑”的手段，都是有问题的。
->
-> **为何要了解：**
->
-> 如果没有分辨过，我们日常的大量阅读，关于“如何做”的知识，都是很荒唐的，例如“认知解离”，不要被这个术语蒙蔽，将自我思想从意象和记忆分离？讲思想看作语言和文字而不是其意义？这些反意识的胡话是怎么编造的？这不是要我们不当人吗？
->
-> [第一个荒唐的内容链接](https://www.zhihu.com/question/20153152)  [第二个荒唐的内容链接](https://book.douban.com/review/6693279/)
+<!--sec data-title="Studywith知识链接" data-id="section6" data-show=true ces-->
+
+大多数对“焦虑”的手段都是虚妄的
+
+我们同样给出了两个内容，一个是一本叫做“精神焦虑症的自救”这样书籍的书评，一个是知乎关于克服焦虑的一个答案。你同时能够发现，他们给出的方法本身有多么的荒唐。绝大多数时候，我们采取的“解除焦虑”的手段，都是有问题的。
+
+**为何要了解：**
+
+如果没有分辨过，我们日常的大量阅读，关于“如何做”的知识，都是很荒唐的，例如“认知解离”，不要被这个术语蒙蔽，将自我思想从意象和记忆分离？讲思想看作语言和文字而不是其意义？这些反意识的胡话是怎么编造的？这不是要我们不当人吗？
+
+<button class="section" target="section7" show="展开具体内容" hide="收起具体内容" ></button>
+
+<!--endsec-->
+
+<!--sec data-title="链接主题" aria-expanded="false" data-id="section7" data-show=false ces-->
+
+[第一个荒唐的内容链接](https://www.zhihu.com/question/20153152)  [第二个荒唐的内容链接](https://book.douban.com/review/6693279/)
+
+<!--endsec-->
 
 因此对于“未来”这个结果，什么“原因”在导致良好未来的到来呢？我们总是天真的觉得只要做些什么就会导致这个结果，因此一个形式化的“计划”，被我们作为聊以自慰的东西。当然，其实我们平时拿来聊以自慰的“形式”，当然不仅仅是这个计划。有时批判“得到”之类的平台不是贩卖知识，而是贩卖“知识焦虑”，也是说的这个意思。
 
@@ -53,17 +69,25 @@
 
 这也是现代社会一个很主要的特征，意味着个体可以把自己融入“一类人”的想象来获得满足。
 
-> ##### Studywith知识链接
->
-> ##### “抽象社会”，我们理解生活的核心
->
-> 今天的内容百度百度重点看名词探悉中的三个内涵。而第二篇是著名北大哲学家李猛的名作《抽象社会》。如果你能完整的理解这篇文章，对于从社会学的角度理解，就往前走了很大一步。
->
-> **为何要了解：**
->
-> 抽象社会是理解现代社会的核心，如果真的能够理解抽象社会，将可以理解大多数现代社会的问题。
->
-> [第一个内容链接](https://baike.baidu.com/item/抽象社会)  [李猛的抽象社会内容链接](https://www.douban.com/group/topic/2408979/)
+<!--sec data-title="Studywith知识链接" data-id="section6" data-show=true ces-->
+
+“抽象社会”，我们理解生活的核心
+
+今天的内容百度百度重点看名词探悉中的三个内涵。而第二篇是著名北大哲学家李猛的名作《抽象社会》。如果你能完整的理解这篇文章，对于从社会学的角度理解，就往前走了很大一步。
+
+**为何要了解：**
+
+抽象社会是理解现代社会的核心，如果真的能够理解抽象社会，将可以理解大多数现代社会的问题。
+
+<button class="section" target="section7" show="展开具体内容" hide="收起具体内容" ></button>
+
+<!--endsec-->
+
+<!--sec data-title="链接主题" aria-expanded="false" data-id="section7" data-show=false ces-->
+
+[第一个内容链接](https://baike.baidu.com/item/抽象社会)  [李猛的抽象社会内容链接](https://www.douban.com/group/topic/2408979/)
+
+<!--endsec-->
 
 这说起来不那么容易理解，但这是现代社会的一大特征，那就是“抽象社会”。
 
@@ -79,31 +103,47 @@
 
 ![](/assets/7.jpg)
 
-> ##### Studywith知识链接
->
-> ##### 现代身份的文化叙事认同
->
-> 今天第一篇关于“叙事”的伦理，写的很明白。第二篇徐贲的文章更聚焦在民族国家的层面上。
->
-> **为何要了解：**
->
-> 在“未来计划”中，很大一部分是“身份”的认同，而什么是“身份”其实是一个很值得思考的话题。
->
-> [叙事身份内容链接](https://philosophy.hk01.com/channel/Events/74636/利科︰被敘述的自身，身份的敘事認同 %2802/27%29)  [共同体身份内容链接](http://www.aisixiang.com/data/84700.html)
+<!--sec data-title="Studywith知识链接" data-id="section6" data-show=true ces-->
+
+现代身份的文化叙事认同
+
+今天第一篇关于“叙事”的伦理，写的很明白。第二篇徐贲的文章更聚焦在民族国家的层面上。
+
+**为何要了解：**
+
+在“未来计划”中，很大一部分是“身份”的认同，而什么是“身份”其实是一个很值得思考的话题。
+
+<button class="section" target="section7" show="展开具体内容" hide="收起具体内容" ></button>
+
+<!--endsec-->
+
+<!--sec data-title="链接主题" aria-expanded="false" data-id="section7" data-show=false ces-->
+
+[叙事身份内容链接](https://philosophy.hk01.com/channel/Events/74636/利科︰被敘述的自身，身份的敘事認同 %2802/27%29)  [共同体身份内容链接](http://www.aisixiang.com/data/84700.html)
+
+<!--endsec-->
 
 例如现在一个学习计算机或从事程序工作的人可以简单的想象自己未来属于“从事人工智能的人”而获得当下的满足，或一个女生直接想象自己未来是“从事艺术行业的人”而获得满足。丝毫不考虑真正的自我与这个想象之中的路径，方式，个人特点。因为我们确实经常对自己做这种“一类人”的身份想象，例如自己是哪个城市的人？哪个大学的人？哪个国家的人来获得一种身份，殊不知对“未来计划”这个话题，这种空洞的身份想象除了偶尔聊以自慰，并不会有任何的作用。
 
-> ##### Studywith知识链接
->
-> ##### 从“超真实”理解我们的计划与我们生活的脱节
->
-> 今天的主要内容是这篇论文的第一和第二部分，关于“超真实”的性质。
->
-> **为何要了解：**
->
-> “超真实”是我们需要摆脱的一种思维定势。
->
-> [内容链接](http://www.bjqx.org.cn/qxweb/n64366c764.aspx)
+<!--sec data-title="Studywith知识链接" data-id="section6" data-show=true ces-->
+
+从“超真实”理解我们的计划与我们生活的脱节
+
+今天的主要内容是这篇论文的第一和第二部分，关于“超真实”的性质。
+
+**为何要了解：**
+
+“超真实”是我们需要摆脱的一种思维定势。
+
+<button class="section" target="section7" show="展开具体内容" hide="收起具体内容" ></button>
+
+<!--endsec-->
+
+<!--sec data-title="链接主题" aria-expanded="false" data-id="section7" data-show=false ces-->
+
+[内容链接](http://www.bjqx.org.cn/qxweb/n64366c764.aspx)
+
+<!--endsec-->
 
 ### 3 过度依赖“职业”的“未来计划”
 
@@ -114,17 +154,25 @@
 
 我们认为基于资本主义的分工工作系统是不可质疑基本假设，但没有思考这种系统失灵或崩溃的可能性。诸如“人工只能替代不了什么？”，“未来的工作？”话题其实都是这种依然依赖“工作假设”的路径。
 
-> ##### Studywith知识链接
->
-> ##### 为了不改变，我们可以给自己找很多理由
->
-> 近的内容是诺贝尔经济学奖诺斯提出的制度性路径依赖的例子，尤其是制度性的路径依赖，对我们的反思很有帮助。
->
-> **为何要了解：**
->
-> 路径依赖我们都听说过，这个词汇的意思大概都明白。但是究竟什么是路径依赖，他有什么结构，什么导致了路径依赖，有几种典型的路径依赖呢？我们应该不简单的满足以理解一个模糊的概念。
->
-> [内容链接](http://wiki.mbalib.com/wiki/路径依赖理论)
+<!--sec data-title="Studywith知识链接" data-id="section6" data-show=true ces-->
+
+为了不改变，我们可以给自己找很多理由
+
+近的内容是诺贝尔经济学奖诺斯提出的制度性路径依赖的例子，尤其是制度性的路径依赖，对我们的反思很有帮助。
+
+**为何要了解：**
+
+路径依赖我们都听说过，这个词汇的意思大概都明白。但是究竟什么是路径依赖，他有什么结构，什么导致了路径依赖，有几种典型的路径依赖呢？我们应该不简单的满足以理解一个模糊的概念。
+
+<button class="section" target="section7" show="展开具体内容" hide="收起具体内容" ></button>
+
+<!--endsec-->
+
+<!--sec data-title="链接主题" aria-expanded="false" data-id="section7" data-show=false ces-->
+
+[内容链接](http://wiki.mbalib.com/wiki/路径依赖理论)
+
+<!--endsec-->
 
 ![](/assets/8.jpg)
 
