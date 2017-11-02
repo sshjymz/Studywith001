@@ -8,76 +8,50 @@
 
 那该怎么办？！其实我们提出的解决方案也有一个明确的逻辑或条件：
 
-* 1 从你自己最特殊的个人经历和特质出发思考这个问题（是不是又不知道怎么思考了，多讽刺！一个极端个人主义的时代，我们却无法从个人角度考虑）
+* 1 从你自己最特殊的个人经历和特质出发思考这个问题，是不是又不知道怎么思考了，多讽刺！一个极端个人主义（&nbsp;&nbsp;**Studywith小词条个人主义**&nbsp;&nbsp;:&nbsp;个人主义是一种“个体价值”大于“群体价值”的基本假设，例如现在大家应该都觉得首先要保全自我的价值，才需要考虑集合起来的社会价值。但讽刺的也就在这里。
+&nbsp;&nbsp;）的时代，我们却无法从个人角度考虑。
 
-> ##### Studywith小词条：个人主义
-> 个人主义是一种“个体价值”大于“群体价值”的基本假设，例如现在大家应该都觉得首先要保全自我的价值，才需要考虑集合起来的社会价值。但讽刺的也就在这里。
-
-<!--sec data-title="Studywith知识链接" data-id="section20" data-show=true ces-->
-
-无法从“我”的角度思考的原因
+> ##### Studywith知识链接
+>
+> ##### 无法从“我”的角度思考的原因
 >
 > 知乎这个不被人关注的小问题和小回答，虽然摘自《后现代主义文化研究》，但是短小而有启发。第二部分是福柯的雄文《自我技术》，如果能够理解当然最好，第三是个TED演讲，关于专家系统与个人关系的。
 >
 > **为何要了解：**
 >
 > 我们认为现代是“个人主义”的时代，个体应该最大，福柯却说人的脸消失在沙滩上，他为什么会这样说？我们要理解个体化危机的实质。就算你不了解，这个事情也不会凭空消失。
-
-<button class="section" target="section21" show="展开具体内容" hide="收起具体内容" ></button>
-
-<!--endsec-->
-
-<!--sec data-title="链接主题" aria-expanded="false" data-id="section21" data-show=false ces-->
-
+>
 > [知乎问题内容链接](https://www.zhihu.com/question/38794184)  [福柯《自我技术》内容链接](http://www.aisixiang.com/data/106356.html)  [TED演讲内容链接](https://www.ted.com/talks/noreena_hertz_how_to_use_experts_and_when_not_to/transcript)
-
-<!--endsec-->
 
 * 2 从“好生活”而不是“好工作”的角度出发思考这个问题（是不是又不知道怎么思考了，多讽刺！工作是为了更好的生活，我们知道如何用薪资和付出衡量好工作，却不知道什么是好生活）
 
-<!--sec data-title="Studywith知识链接" data-id="section22" data-show=true ces-->
-
-信息时代我们遭遇的陷阱
+> ##### Studywith知识链接
+>
+> ##### 信息时代我们遭遇的陷阱
 >
 > 今天的文章并不知来源，但其中的两个异化思路梳理的不错，技术、符号、理性、心灵的四个异化总结的很全面而清晰。
 >
 > **为何要了解：**
 >
 > 和上面的理由相同，越是多的理解这些机制，越不会越陷越深。其实我们也想问，你平时会感觉自己的信息生活具有某种不健康的特征吗？
-
-<button class="section" target="section23" show="展开具体内容" hide="收起具体内容" ></button>
-
-<!--endsec-->
-
-<!--sec data-title="链接主题" aria-expanded="false" data-id="section23" data-show=false ces-->
-
+>
 > [内容链接](http://www.360doc.com/content/12/0218/23/892692_187719419.shtml)
-
-<!--endsec-->
 
 ![](/assets/9.jpg)
 
 * 3 从know-why而不是know-how的角度出发思考这个问题，就是考虑“为什么做”而不是“如何做”（是不是又不知道怎么思考了，多讽刺！技巧和技术为了目的，能够分辨和思考技术，却无法思考多什么目的了）
 
-<!--sec data-title="Studywith知识链接" data-id="section24" data-show=true ces-->
-
-如果只问“该怎么做”只问“干货”会出很大的问题
+> ##### Studywith知识链接
+>
+> ##### 如果只问“该怎么做”只问“干货”会出很大的问题
 >
 > 汉娜阿伦特在二战后进行了很广泛的know-how的批判，今天第一个文章是她的巨著《人的境况》的内容，整个下面的内容都很值得看，更不用说这里面有一段珍贵的录像。第二个是一个典型的know-how网站，就叫做wikiHow
 >
 > **为何要了解：**
 >
 > 汉娜阿伦特的这部作品在豆瓣上895人评价9.1的高分。在Goodreads上4431人评价4.19的高分。我其实也不愿意用这种信息来吸引你了解。但这本书确实非常有时代性，非常照应到我们的生活。
-
-<button class="section" target="section25" show="展开具体内容" hide="收起具体内容" ></button>
-
-<!--endsec-->
-
-<!--sec data-title="链接主题" aria-expanded="false" data-id="section25" data-show=false ces-->
-
+>
 > [阿伦特内容链接](https://www.douban.com/group/topic/55847207/)  [奇怪的wikiHow网站](https://zh.wikihow.com/首页)
-
-<!--endsec-->
 
 不用太担心，第三点是我们DAY2的主要内容，第一和第二点在DAY4有所涉及。因此我们今天开了这个头，接下来会逐步完善这个问题。
 
