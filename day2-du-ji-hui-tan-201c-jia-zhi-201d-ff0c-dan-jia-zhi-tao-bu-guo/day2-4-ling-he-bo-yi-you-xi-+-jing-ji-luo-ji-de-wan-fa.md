@@ -6,17 +6,25 @@
 * 公众号涨粉有一套方法
 * 论坛吸引关注有一套题材和方法
 
-> ##### Studywith知识链接
->
-> ##### 仅仅追求流量和商业的媒体有什么问题？
+<!--sec data-title="Studywith知识链接" data-id="section38" data-show=true ces-->
+
+仅仅追求流量和商业的媒体有什么问题？
 >
 > 我们给出三个问题，一个媒体市场化批判，一条的徐沪生在复旦大学的演讲，和一个很棒的TED演讲，关于媒体的责任。
 >
 > **为何要了解：**
 >
 > 当前的语境容易歌颂经济逻辑或觉得任何服务都是可以盈利的，但实际上媒体就不是这样，当然不仅是媒体，很多行业盈利都有一定的问题。
->
+
+<button class="section" target="section39" show="展开具体内容" hide="收起具体内容" ></button>
+
+<!--endsec-->
+
+<!--sec data-title="链接主题" aria-expanded="false" data-id="section39" data-show=false ces-->
+
 > [媒体批判内容链接](http://www.aisixiang.com/data/100183.html)  [一条演讲内容链接](http://www.aisixiang.com/data/90307.html) [ TED演讲内容链接](https://www.ted.com/talks/david_puttnam_what_happens_when_the_media_s_priority_is_profit)
+
+<!--endsec-->
 
 ![](/assets/12a.jpg)
 
