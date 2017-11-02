@@ -85,7 +85,7 @@
 
 这个问题你可以在知乎的一个很好的答案上获得一个更棒的认识。
 
-<!--sec data-title="Studywith知识链接" data-id="section0" data-show=true ces-->
+<!--sec data-title="Studywith知识链接" data-id="section6" data-show=true ces-->
 
 该知乎问题中杜连殳的回答
 
@@ -95,11 +95,11 @@
 
 现代性问题可能还是一个令人比较陌生的话题，尤其是这个如此抽象的话题，到底要说什么？为什么要分析这些问题，通过这个分辨，还是可以找到一些线索。
 
-<button class="section" target="section6" show="展开具体内容" hide="收起具体内容" ></button>
+<button class="section" target="section7" show="展开具体内容" hide="收起具体内容" ></button>
 
 <!--endsec-->
 
-<!--sec data-title="链接主题" aria-expanded="false" data-id="section6" data-show=false ces-->
+<!--sec data-title="链接主题" aria-expanded="false" data-id="section7" data-show=false ces-->
 
 [内容链接](https://www.zhihu.com/question/24418080)
 <!--endsec-->
