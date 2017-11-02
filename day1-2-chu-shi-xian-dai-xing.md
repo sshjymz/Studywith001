@@ -17,11 +17,11 @@
 
 如果你系统的理解了吉登斯的理论，你才可以真的开始理解现代社会的具体现象，不论小到偶像崇拜，大到消费主义，或是小到为何我们总是很难对自己作出改变，大到我们为何不能再接受知识。
 
-<button class="section" target="section1" show="Show next section" hide="Hide next section"></button>
+<button class="section" target="section1" hide="Hide next section" show="Show next section" ></button>
 
 <!--endsec-->
 
-<!--sec data-title="安东尼·吉登斯及其社会学理论简介" data-id="section1" data-show=true ces-->
+<!--sec data-title="安东尼·吉登斯及其社会学理论简介" data-id="section1" data-show=false ces-->
 
 链接内容摘抄...
 
