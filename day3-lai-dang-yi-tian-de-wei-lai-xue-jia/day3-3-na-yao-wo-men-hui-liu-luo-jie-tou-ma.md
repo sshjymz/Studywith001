@@ -24,6 +24,12 @@
 
 <!--sec data-title="链接内容" aria-expanded="false" data-id="section67" data-show=false ces-->
 
+内容节选：
+
+我們的社會是歷來最富裕的﹗我認為基本收入就是社會進步帶來的紅利。由於我們的祖先辛勤工作以達到今天的繁榮局面，我們才有本錢讓每個人從祖先的成就分一杯羹。各位記住：消滅貧窮說到底是一項投資。經濟學家曾計算過，必須動用大約1,750億美元才可徹底消滅美國的貧窮狀況。開支相當高昂，對吧﹖每年1,759億美元，但這只及美國軍費預算的四分之一，所以滅貧投資是絕對可能，也可行。
+
+（摘自TED演讲《我们为何应给每人无条件基本收入？》）
+
 [TED演讲链接](https://www.bilibili.com/video/av4618385/?from=search&seid=14802677454932633704)
 
 <!--endsec-->
@@ -49,6 +55,80 @@ UBI只是你最基础的安全感，但确实在任何意义上，都与你的�
 <!--endsec-->
 
 <!--sec data-title="链接内容" aria-expanded="false" data-id="section69" data-show=false ces-->
+
+内容节选：
+
+We investigated the relation between income inequality and
+happiness over a 37-year period in the United States. As
+predicted, Americans were on average less happy in years
+with more societal income inequality than in years with
+less societal income inequality. We demonstrated that the
+negative association between societal income inequality and
+individual-level happiness was explained by perceived fairness
+and general trust. We also found that the negative association
+between income disparity and happiness was present
+among Americans with lower incomes but not among Americans
+with higher incomes. Moreover, we showed that it was
+not the reduced income but the lowered levels of perceived
+fairness and trust that made low-income Americans feel less
+happy in the years with greater income inequality.
+Although there is a large body of research on income
+inequality in other social and behavioral sciences (see
+Wilkinson & Pickett, 2009, for a review), relatively few
+researchers have investigated the role of income inequality in
+psychological science. More important, the small body of
+existing research on income inequality and happiness has not
+examined any psychological mechanisms. To this end, our
+mediation findings for the first time delineate the psychological
+mechanisms linking a socioecological factor (income
+inequality) with individual-level happiness, and therefore contribute
+to the emerging topics in socioecological psychology
+(Oishi & Graham, 2010; Oishi, Kesebir, & Snyder, 2009).
+Social scientists have debated why Americans have not
+become happier over the last 50 years despite the enormous
+growth in national wealth (Easterlin, 1974). At first, researchers
+assumed that economic growth was not associated with an
+increase in individual happiness because of social-comparison
+processes (other people’s wealth was also increasing), upward
+shifts in aspirations, and hedonic adaptation (Easterlin, 1974).
+Recently, however, researchers have found that economic
+growth is in fact associated with an increase in happiness over
+time in many nations other than the United States (Stevenson
+& Wolfers, 2008). It has been unclear, however, why massive
+economic growth over the past decades has translated to an
+increase in happiness among the Danish, French, and Germans,
+but not among Americans. The existing theories cannot
+explain the anomaly of the United States, as an upward shift in
+aspiration, hedonic adaptation, and social comparisons should
+apply similarly to other nations with economic growth. Our
+findings provide a novel clue for this puzzle. Income growth
+without income disparity is likely to result in an increase in the
+mean happiness of a general population. This new hypothesis
+needs to be carefully tested in the future.
+It is important to recognize four limitations of our research.
+First, happiness, fairness, and general trust were each measured
+by single items. Thus, measurement error is expected
+to be far from trivial. Although researchers have used the
+same single-item happiness (Kahneman, Krueger, Schkade,
+Schwarz, & Stone, 2006), fairness, and trust measures
+(Kawachi et al., 1997), it is important to replicate the current
+findings with better-validated multi-item scales. Second, we
+examined only perceived fairness and general trust as potential
+mediators. There might be other potential mediators that were
+not measured in this study. Third, although we emphasized the
+negative aspects of income inequality, there might be circumstances
+under which income inequality reflects that individuals
+who contribute more receive greater rewards. Furthermore, the
+relation between societal income inequality and individual happiness
+is likely to vary across time, nations, and political cultures
+(e.g., Alesina et al., 2004; Napier & Jost, 2008).
+In conclusion, Americans are happier when national wealth
+is distributed more evenly than when it is distributed less evenly.
+If the ultimate goal of society is to make its citizens happy
+(Bentham, 1789/2008), then it is desirable to consider policies
+that produce more income equality, fairness, and general trust
+
+（摘自论文《Income Inequality and Happiness》）
 
 [内容链接](http://languageandmemory.net/documents/Oishi-Kesebir-Diener-InequalityandHappiness-PsychScience.pdf)
 
