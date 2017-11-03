@@ -8,7 +8,7 @@
   * 另一个针对技术性失业的UBI介绍 [链接](https://futurism.com/images/universal-basic-income-answer-automation/)
   * 2016年瑞士已经进行一次针对UBI的全民公决，虽然未被通过 
 
-<!--sec data-title="Studywith知识链接" data-id="section66" data-show=true ces-->
+<!--sec data-title="Studywith知识链接" data-id="section64" data-show=true ces-->
 
 关于无差别基本收入的概念
 
@@ -18,11 +18,11 @@
 
 希望这个可以给你的未来带来不错的基础安全感。
 
-<button class="section" target="section67" show="展开具体内容" hide="收起具体内容" ></button>
+<button class="section" target="section65" show="展开具体内容" hide="收起具体内容" ></button>
 
 <!--endsec-->
 
-<!--sec data-title="链接内容" aria-expanded="false" data-id="section67" data-show=false ces-->
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section65" data-show=false ces-->
 
 内容节选：
 
@@ -40,7 +40,7 @@ UBI（&nbsp;&nbsp;**Studywith小词条UBI**&nbsp;&nbsp;:&nbsp;Universal Basic In
 
 而且不要一位每个月这个钱只够你糊口，你的生活水平会比现在好的多。当然，一个现在的城市农民工也比1980年城里的普通家庭生活条件好得多得多，这并不代表“幸福感”会更高，这是个复杂问题。
 
-<!--sec data-title="Studywith知识链接" data-id="section68" data-show=true ces-->
+<!--sec data-title="Studywith知识链接" data-id="section66" data-show=true ces-->
 
 有钱不幸福，比别人有钱才幸福
 
@@ -50,11 +50,11 @@ UBI（&nbsp;&nbsp;**Studywith小词条UBI**&nbsp;&nbsp;:&nbsp;Universal Basic In
 
 UBI只是你最基础的安全感，但确实在任何意义上，都与你的幸福没有关系。
 
-<button class="section" target="section69" show="展开具体内容" hide="收起具体内容" ></button>
+<button class="section" target="section67" show="展开具体内容" hide="收起具体内容" ></button>
 
 <!--endsec-->
 
-<!--sec data-title="链接内容" aria-expanded="false" data-id="section69" data-show=false ces-->
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section67" data-show=false ces-->
 
 内容节选：
 

@@ -1,6 +1,6 @@
 ## DAY3-2 未来的“工作”
 
-我们在第一天分辨了，不应该过度依赖“职业”来谈未来，当然对这个判断的理解，也需要对未来职业的理解，这当然也是个很重要的话题。
+我们在第一天分辨了，不应该过度依赖“职业”来谈未来，当然作出这个判断，也需要对未来职业的充分理解，这是个很重要的话题。
 
 马克思在《德意志意识形态》（&nbsp;&nbsp;**Studywith小词条《德意志意识形态》**&nbsp;&nbsp;:&nbsp;这本书是马克思与恩格斯合写的一本书籍，关于成熟期马克思主义的一本书。我们听过不少断章取义的话语，但本身思想成果非常高，值得一看。&nbsp;&nbsp;）描述了一种共产主义生活：
 ###### "上午打猎，下午捕鱼，傍晚放牧，晚上从事批判工作。"
@@ -175,8 +175,6 @@ AI 治療師的終極目標是取代人類治療師嗎？這個問題可以用�
 
 （摘自知乎萧瑟回答问题《现在的人工智能水平，能代替程序员写代码吗？》）
 
-
-
 [知乎问题链接](https://www.zhihu.com/question/54500288)
 [一篇文章链接](https://www.newscientist.com/article/mg23331144-500-ai-learns-to-write-its-own-code-by-stealing-from-other-programs/)
 
@@ -204,7 +202,7 @@ AI 治療師的終極目標是取代人類治療師嗎？這個問題可以用�
 
 有没有人的工作是人工智能无法替代的，甚至会被人工智能大幅度增强的呢？当然有，但是这样的人有多少呢？过去一个大的制造业企业需要60万人运作，现在苹果在全球只有6万左右的员工，Facebook有4000员工，Twitter有400员工，而Wikipedia只有几十名员工。
 
-<!--sec data-title="Studywith知识链接" data-id="section64" data-show=true ces-->
+<!--sec data-title="Studywith知识链接" data-id="section62" data-show=true ces-->
 
 未来到底谁主沉浮
 
@@ -214,11 +212,11 @@ AI 治療師的終極目標是取代人類治療師嗎？這個問題可以用�
 
 这是一个很容易被接受的观点，未来会进化出新的人类精英，而他们会靠数据来统治其他人，而这些是我们无法改变的。如果你接受这一点，那么你现在要思考的，就是如何来改变，不然苟活着是为了什么？
 
-<button class="section" target="section65" show="展开具体内容" hide="收起具体内容" ></button>
+<button class="section" target="section63" show="展开具体内容" hide="收起具体内容" ></button>
 
 <!--endsec-->
 
-<!--sec data-title="链接内容" aria-expanded="false" data-id="section65" data-show=false ces-->
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section63" data-show=false ces-->
 
 内容节选：
 

@@ -12,6 +12,10 @@
 
 除了源发于你自己的批判能力，你什么也判断不了。放心，这些逐渐在Studywith都会教给你。
 
+---
+
+![](/assets/46.jpg)
+
 **这个说法你认可吗？新技术只是让 “人你来我往的游戏更复杂” 。**[链接](https://www.zhihu.com/question/41228130)
 
 {% enableComment %}

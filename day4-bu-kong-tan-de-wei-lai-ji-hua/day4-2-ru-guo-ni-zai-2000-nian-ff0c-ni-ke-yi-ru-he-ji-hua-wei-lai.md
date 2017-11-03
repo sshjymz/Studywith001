@@ -6,19 +6,29 @@
 
 * 预测移动互联网的伟大趋势？2000年最火的手机是Nokia 3310，距离iPhone的发布还有7年时间。
 
-<!--sec data-title="Studywith知识链接" data-id="section74" data-show=true ces-->
+<!--sec data-title="Studywith知识链接" data-id="section72" data-show=true ces-->
 
-（_**TAM**_：NOKIA3310）
+诺基亚在今年推出复刻版的3310，把我们带回到11年前的回忆。
 
-**为什么需要了解**
+2000年的一代传奇诺基亚3310
 
-<button class="section" target="section75" show="展开具体内容" hide="收起具体内容" ></button>
+<button class="section" target="section73" show="展开具体内容" hide="收起具体内容" ></button>
 
 <!--endsec-->
 
-<!--sec data-title="链接内容" aria-expanded="false" data-id="section75" data-show=false ces-->
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section73" data-show=false ces-->
 
-链接
+内容节选：
+
+这促使诺基亚 3310 大受欢迎，并乘着 21 世纪初那股短信热潮，开始了接下来为期 5 年的统治。
+
+作为诺基亚的里程碑之一，3310 为诺基亚带来了不少荣誉。直到 2005 年停产结束了 5 年手机市场的统治时，3310 的累计销量已经达到 1.26 亿部，成为史上销量最好的的手机之一。
+
+甚至在 10 年后，芬兰政府官方机构也把诺基亚 3310 纳入三个最能代表芬兰的 Emoji 表情之中，诺基亚 3310 成为北欧这个国家的骄傲。
+
+（摘自ifanr文章《诺基亚 3310 ：一个关于核桃与质量的北欧传奇》）
+
+[3310文章链接](http://www.ifanr.com/794334)
 
 <!--endsec-->
 
@@ -26,19 +36,19 @@
 
 * 预测电商的发展？这是可能性比较大的一个，因为eBay毕竟已经上市两年。但距离即便比Taobao还早的电商网站8848的上线，还有3年时间。
 
-<!--sec data-title="Studywith知识链接" data-id="section76" data-show=true ces-->
+<!--sec data-title="Studywith知识链接" data-id="section74" data-show=true ces-->
 
 最早的电商尝试
 
 在马云的淘宝帝国之前，其实早已有一个学习美国ebay模式的电商网站8848，但最后成功的依然是马云。
 
-**为什么需要了解**
-
-<button class="section" target="section77" show="展开具体内容" hide="收起具体内容" ></button>
+<button class="section" target="section75" show="展开具体内容" hide="收起具体内容" ></button>
 
 <!--endsec-->
 
-<!--sec data-title="链接内容" aria-expanded="false" data-id="section77" data-show=false ces-->
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section75" data-show=false ces-->
+
+关于8848电商的基本介绍。
 
 [百度百科链接](https://baike.baidu.com/item/8848/846311)
 
@@ -47,19 +57,19 @@
 * 预测计算机人才未来会非常吃香，这似乎不难。不过2000年互联网在中国刚刚起步，在那个时代，“计算机”主要指企业级软件开发。丁磊算是最具有先见之明的早期互联网人，但他1993年就开始在电信局（互联网接入商）工作，4年后1997年，买下了几乎所有优秀的数字域名。对于一个非电信系统工作人员，互联网还是个遥远的概念。
 * 在2000年，你还看到一个现象就是互联网那个泡沫的破灭，NASDAQ从3月10日的5048点，5天后就跌到4500点，到2002年跌至1200点，很多人确实认为互联网仅仅是个笑话。可能和我们今天看待比特币的方式差不多。
 
-<!--sec data-title="Studywith知识链接" data-id="section78" data-show=true ces-->
+<!--sec data-title="Studywith知识链接" data-id="section76" data-show=true ces-->
 
 不总是这么辉煌
 
 早在1995年，其实是互联网最早的时期，在所有人都相信，这是巨大机遇的时候，纳斯达克遭遇滑铁卢，这次危机一直持续到2004年。
 
-**为什么需要了解**
-
-<button class="section" target="section79" show="展开具体内容" hide="收起具体内容" ></button>
+<button class="section" target="section77" show="展开具体内容" hide="收起具体内容" ></button>
 
 <!--endsec-->
 
-<!--sec data-title="链接内容" aria-expanded="false" data-id="section79" data-show=false ces-->
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section77" data-show=false ces-->
+
+一个看起来不可质疑的下滑，其实随时会发生，不仅有这一次的互联网泡沫，还有08金融危机。
 
 [维基百科中文链接](https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%AF%E7%B6%B2%E6%B3%A1%E6%B2%AB)
 
@@ -69,19 +79,20 @@
 * 汽车市场？2001年关于汽车市场的报导仍然是《2000年中国车市仍未走出低迷》。
 * 2000年很多人预测未来一个走红的职业是作家，韩寒的第一部小说《三重门》，安妮宝贝的《八月未央》都是2000年的作品，郭敬明在2002年拿到第一个新概念作文大赛冠军。
 
-<!--sec data-title="Studywith知识链接" data-id="section80" data-show=true ces-->
+<!--sec data-title="Studywith知识链接" data-id="section78" data-show=true ces-->
 
 曾经的青少年梦想
 
 萌芽作文大赛是1998年开始，直到现在仍然在举办的全国性写作比赛，1999年冠军为韩寒，2001，2002年冠军为郭敬明。
 
-**为什么需要了解**
-
-<button class="section" target="section81" show="展开具体内容" hide="收起具体内容" ></button>
+<button class="section" target="section79" show="展开具体内容" hide="收起具体内容" ></button>
 
 <!--endsec-->
 
-<!--sec data-title="链接内容" aria-expanded="false" data-id="section81" data-show=false ces-->
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section79" data-show=false ces-->
+
+在新概念作文大赛的影响下，在青少年（主要是中学生）中引发了对旧有作文模式的摒弃，以及对 “新概念” 模式的效仿。对此各方看法不一，一部分教育工作者表示担心。但是大赛并未直接影响中国大陆中学的语文和写作教学。
+一批被称为 “80 后” 的作家是由于参与了新概念作文大赛而引起人们的注意。如韩寒、郭敬明、张悦然等是他们的代表人物。他们和他们的作品得到了广大青少年的支持和追捧，也引来了媒体和社会各界的议论。此外，后来成为演员的胡歌也参与了新概念作文大赛，但未能进入决赛。
 
 [维基百科中文链接](https://zh.wikipedia.org/wiki/%E6%96%B0%E6%A6%82%E5%BF%B5%E4%BD%9C%E6%96%87%E5%A4%A7%E8%B5%9B)
 

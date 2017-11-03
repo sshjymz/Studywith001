@@ -1,6 +1,8 @@
 ## DAY3-5 那是不是我们开始做创造性工作就好了？
 
-<!--sec data-title="Studywith知识链接" data-id="section72" data-show=true ces-->
+在对于未来工作的想象中，创造性工作，也就是偏重艺术性的工作一直占据着一个非常核心的位置，不论从马克思的论述，还是我们认为的人工智能不会替代的角度来看。似乎创造性工作是一种既体面，又彰显人的价值，还很有意义的工作。但即便这个论断是正确的，事情仍然比我们想象的复杂。
+
+<!--sec data-title="Studywith知识链接" data-id="section70" data-show=true ces-->
 
 我们有多痴迷于休闲生活
 
@@ -10,11 +12,11 @@
 
 从整体社会而言暂且不谈，如何摆脱对休闲生活的“瘾”确实是对每个人的重要话题。
 
-<button class="section" target="section73" show="展开具体内容" hide="收起具体内容" ></button>
+<button class="section" target="section71" show="展开具体内容" hide="收起具体内容" ></button>
 
 <!--endsec-->
 
-<!--sec data-title="链接内容" aria-expanded="false" data-id="section73" data-show=false ces-->
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section71" data-show=false ces-->
 
 内容节选：
 

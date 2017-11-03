@@ -2,20 +2,20 @@
 
 苏格拉底的名言大家都听过了：未经省察的人生没有价值。这句话人人都会说，但具体是什么意思呢？
 
-<!--sec data-title="Studywith知识链接" data-id="section86" data-show=true ces-->
+<!--sec data-title="Studywith知识链接" data-id="section90" data-show=true ces-->
 
 最早自我认识的途径
 
-德尔斐（Δελφοί）是一处重要的 “泛希腊圣地”，即所有古希腊城邦共同的圣地。这里主要供奉着 “德尔斐的阿波罗”（Appollon pythien，以下简称 “阿波罗”），著名的德尔斐神谕就在这里颁布。德尔斐位于福基斯（Φωκίς），现在已列入联合国教科文组织的世界遗产名录。
-“泛希腊圣地” 是一个外在于城邦政治的复杂构造，在宗教意义上为所有希腊人提供自我认识的唯一途径，据说阿波罗神庙的入口处刻着三句箴言：「认识你自己」 （γνῶθι σεαυτόν）、「凡事不过份」（μηδεν αγαν）、「妄立誓则祸近」（ἐγγύα πάρα δ'ἄτη）。
+在苏格拉底、柏拉图著作中经常被提及的“德尔菲神谕”。
 
-**为什么需要了解**
-
-<button class="section" target="section87" show="展开具体内容" hide="收起具体内容" ></button>
+<button class="section" target="section91" show="展开具体内容" hide="收起具体内容" ></button>
 
 <!--endsec-->
 
-<!--sec data-title="链接内容" aria-expanded="false" data-id="section87" data-show=false ces-->
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section91" data-show=false ces-->
+
+德尔斐（Δελφοί）是一处重要的 “泛希腊圣地”，即所有古希腊城邦共同的圣地。这里主要供奉着 “德尔斐的阿波罗”（Appollon pythien，以下简称 “阿波罗”），著名的德尔斐神谕就在这里颁布。德尔斐位于福基斯（Φωκίς），现在已列入联合国教科文组织的世界遗产名录。
+“泛希腊圣地” 是一个外在于城邦政治的复杂构造，在宗教意义上为所有希腊人提供自我认识的唯一途径，据说阿波罗神庙的入口处刻着三句箴言：「认识你自己」 （γνῶθι σεαυτόν）、「凡事不过份」（μηδεν αγαν）、「妄立誓则祸近」（ἐγγύα πάρα δ'ἄτη）。
 
 [维基百科中文链接](https://zh.wikipedia.org/wiki/%E5%BE%B7%E5%B0%94%E6%96%90)
 

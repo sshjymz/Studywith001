@@ -1,24 +1,24 @@
 ## DAY4-3 从互联网巨头们早期生活的启示
 
-<!--sec data-title="Studywith知识链接" data-id="section82" data-show=true ces-->
+首先要介绍的是惠多网（&nbsp;&nbsp;**Studywith小词条惠多网**&nbsp;&nbsp;:&nbsp;起源于1991年，盛行与1993 - 1998年的一种前互联网时代的，通过电话线路连接的BBS网络。&nbsp;&nbsp;），这是大多数人都不知道的事情。
 
-互联网的真黄埔军校
+<!--sec data-title="Studywith知识链接" data-id="section80" data-show=true ces-->
 
-中国惠多网 盛行于 1993 年至 1998 年间，高峰时期全国有上百个站点，使用者达上万人。有名的 BBS 有北京的轻松快车、长城、西点军校、天堂、舒克，广州的新月、深圳的 DataExpress、珠海的西点。CFido 的网友算是中国最早的网民，后来多个 CFido 网友成为中国互联网名人，比如腾讯的马化腾当时就是深圳的 DataExpress 的站长，而金山软件公司的求伯君是珠海西点的站长。发表 “金州不相信眼泪！” 而成名，后来担任 8848 网站董事长的网友老榕（王峻涛）是福州站的站长。
+互联网的真•黄埔军校
 
-**为什么需要了解**
+无数互联网巨头都曾经使用这个平台。
 
-<button class="section" target="section83" show="展开具体内容" hide="收起具体内容" ></button>
+<button class="section" target="section81" show="展开具体内容" hide="收起具体内容" ></button>
 
 <!--endsec-->
 
-<!--sec data-title="链接内容" aria-expanded="false" data-id="section83" data-show=false ces-->
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section81" data-show=false ces-->
+
+中国惠多网 盛行于 1993 年至 1998 年间，高峰时期全国有上百个站点，使用者达上万人。有名的 BBS 有北京的轻松快车、长城、西点军校、天堂、舒克，广州的新月、深圳的 DataExpress、珠海的西点。CFido 的网友算是中国最早的网民，后来多个 CFido 网友成为中国互联网名人，比如腾讯的马化腾当时就是深圳的 DataExpress 的站长，而金山软件公司的求伯君是珠海西点的站长。发表 “金州不相信眼泪！” 而成名，后来担任 8848 网站董事长的网友老榕（王峻涛）是福州站的站长。
 
 [百度百科链接](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E6%83%A0%E5%A4%9A%E7%BD%91)
 
 <!--endsec-->
-
-首先要介绍的是惠多网（&nbsp;&nbsp;**Studywith小词条惠多网**&nbsp;&nbsp;:&nbsp;起源于1991年，盛行与1993 - 1998年的一种前互联网时代的，通过电话线路连接的BBS网络。&nbsp;&nbsp;），这是大多数人都不知道的事情。
 
 FidoNet是1984年建立的基于电话线的BBS协议，中国惠多网CFIDO建立于1991年，下列的这些人都是早期的CFIDO的成员：
 
@@ -29,19 +29,20 @@ FidoNet是1984年建立的基于电话线的BBS协议，中国惠多网CFIDO建�
 * 马云也是杭州站非常活跃的人物
 * 张小龙也是早期惠多的使用者
 
-<!--sec data-title="Studywith知识链接" data-id="section84" data-show=true ces-->
+<!--sec data-title="Studywith知识链接" data-id="section82" data-show=true ces-->
 
 可能是中国最早的程序员
 
 1984年即大学毕业的求伯君，在1994年创立金山公司，直到今天，金山依然是中国知名的互联网企业。
 
-**为什么需要了解**
-
-<button class="section" target="section85" show="展开具体内容" hide="收起具体内容" ></button>
+<button class="section" target="section83" show="展开具体内容" hide="收起具体内容" ></button>
 
 <!--endsec-->
 
-<!--sec data-title="链接内容" aria-expanded="false" data-id="section85" data-show=false ces-->
+<!--sec data-title="链接内容" aria-expanded="false" data-id="section83" data-show=false ces-->
+
+求伯君刚到深圳时，四通让他负责公司的一个经营部。与他对口做生意的，恰巧是张旋龙的弟弟张小龙。即使同好朋友做生意，求伯君也赚不了钱。若干年后，求伯君和张小龙闲聊中提到那段商人生涯，张小龙透露那些生意他赚了多少多少。求伯君大笑，“难怪我赚不到钱，钱都被你赚去了。” 让求伯君经商，犹如缘木求鱼，而给他一个环境，让他潜心开发软件，则是如鱼得水。正在这时，香港金山公司答应提供条件让他专心致志地开发 WPS。“不用优薪高职，这已足够了。”
+求伯君决定大干了。他目标很明确，做一张汉卡装字库，写一个字处理系统，能够取代 WordStar，这个目标就是后来的 WPS。
 
 [百度百科链接](https://baike.baidu.com/item/%E6%B1%82%E4%BC%AF%E5%90%9B)
 
