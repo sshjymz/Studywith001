@@ -15,7 +15,7 @@
 * [DAY1-4 去除“自我安慰”的“真未来计划”](day1-4-qu-chu-201c-zi-wo-an-wei-201d-de-201c-zhen-wei-lai-ji-hua-201d.md)
 * [DAY1-5 第一天延伸阅读和知识](day1-5-di-yi-tian-yan-shen-yue-du-he-zhi-shi.md)
 
-## DAY2 都忌讳谈“价值”，但价值逃不过
+## DAY2 我们想在未来得到什么？
 
 * [DAY2-1 基本逻辑](day2-du-ji-hui-tan-201c-jia-zhi-201d-ff0c-dan-jia-zhi-tao-bu-guo/day2-1-ji-ben-luo-ji.md)
 * [DAY2-2 承认与尊重是非常基础的，无法逃避的需求](day2-du-ji-hui-tan-201c-jia-zhi-201d-ff0c-dan-jia-zhi-tao-bu-guo/day2-2-cheng-ren-yu-zun-zhong-shi-fei-chang-ji-chu-de-ff0c-wu-fa-tao-bi-de-xu-qiu.md)
