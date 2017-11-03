@@ -1,6 +1,6 @@
 {
     "plugins": [ 
-    "theme-api",
+    "theme-default",
     "multimedia",
     "ga",
     "baidu",
@@ -9,7 +9,7 @@
     "back-to-top-button"
      ],
     "pluginsConfig": {
-        "theme-api": {
+        "theme-default": {
             "languages": [
                 {
                     "lang": "js",
