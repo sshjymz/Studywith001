@@ -5,7 +5,8 @@
     "ga",
     "baidu",
     "changyan-ng",
-    "sectionx"
+    "sectionx",
+    "back-to-top-button"
      ],
     "pluginsConfig": {
         "theme-api": {
